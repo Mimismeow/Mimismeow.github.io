@@ -41,6 +41,12 @@ jobs:
       - name: Install Dependencies (if Cache Miss)
         if: steps.cache-node-modules-main.outputs.cache-hit != 'true'
         run: npm install
+      - name: Save Dependencies Cache (if Cache Miss)
+        if: steps.cache-node-modules-main.outputs.cache-hit != 'true'
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{runner.OS}}-${{hashFiles('package-lock.json')}}
       - name: Node.js Dependency Cache Retrieval (Theme)
         id: cache-node-modules-theme
         uses: actions/cache@v3
@@ -50,6 +56,12 @@ jobs:
       - name: Install Dependencies (Theme, if Cache Miss)
         if: steps.cache-node-modules-theme.outputs.cache-hit != 'true'
         run: pushd themes/typography && npm install && popd
+      - name: Save Dependencies Cache (Theme, if Cache Miss)
+        if: steps.cache-node-modules-theme.outputs.cache-hit != 'true'
+        uses: actions/cache@v3
+        with:
+          path: themes/typography/node_modules
+          key: ${{runner.OS}}-${{hashFiles('themes/typography/node_modules/package-lock.json')}}
       - name: Site Buildout
         run: npm run build
       - name: Upload artifact
