@@ -116,9 +116,7 @@ theme: typography
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repository: git@github.com:Mimismeow/Mimismeow.github.io.git
-  branch: main
+  type: ''
 
 #highlight:
 #  enable: false # we will use the prism plugin instead
