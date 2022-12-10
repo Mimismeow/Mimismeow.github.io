@@ -71,5 +71,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: github-pages
-          path: deployable.tar.gz
+          path: "$RUNNER_TEMP/deployable.tar.gz"
           retention-days: 7
