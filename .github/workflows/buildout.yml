@@ -49,7 +49,7 @@ jobs:
           key: ${{runner.OS}}-${{hashFiles('themes/typography/node_modules/package-lock.json')}}
       - name: Install Dependencies (Theme, if Cache Miss)
         if: steps.cache-node-modules-theme.outputs.cache-hit != 'true'
-        run: pushd themes/typography/node_modules && npm install && popd
+        run: pushd themes/typography && npm install && popd
       - name: Site Buildout
         run: npm run build
       - name: Upload artifact
