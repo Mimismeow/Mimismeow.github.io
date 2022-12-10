@@ -20,7 +20,7 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  # Build job
+  # Build job (Site buildout)
   build:
     runs-on: ubuntu-20.04
     steps:
@@ -52,9 +52,24 @@ jobs:
         run: pushd themes/typography && npm install && popd
       - name: Site Buildout
         run: npm run build
+      - name: Pack Site Artifact
+        shell: sh
+        run: |
+          chmod -c -R +rX . | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+          tar \
+            --dereference --hard-dereference \
+            --directory "$INPUT_PATH" \
+            -czvf "$RUNNER_TEMP/deployable.tar.gz" \
+            --exclude=.git \
+            --exclude=.github \
+            .
+        env:
+          INPUT_PATH: "public"
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
-          name: deployable
-          path: public
+          name: github-pages
+          path: deployable.tar.gz
           retention-days: 7
