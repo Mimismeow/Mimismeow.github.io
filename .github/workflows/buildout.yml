@@ -73,3 +73,24 @@ jobs:
           name: github-pages
           path: "deployable.tar.gz"
           retention-days: 7
+
+  # Deployment job
+  deploy:
+    # Add a dependency to the build job
+    needs: build
+    runs-on: ubuntu-20.04
+
+    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
