@@ -1,0 +1,60 @@
+name: Site Buildout and Deployment
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["master"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          submodules: recursive
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 14
+          cache: 'npm'
+      - name: Node.js Dependency Cache Retrieval
+        id: cache-node-modules-main
+        uses: actions/cache@v3
+        with:
+          path: node_modules
+          key: ${{runner.OS}}-${{hashFiles('package-lock.json')}}
+      - name: Install Dependencies (if Cache Miss)
+        if: steps.cache-node-modules-main.outputs.cache-hit != 'true'
+        run: npm install
+      - name: Node.js Dependency Cache Retrieval (Theme)
+        id: cache-node-modules-theme
+        uses: actions/cache@v3
+        with:
+          path: themes/typography/node_modules
+          key: ${{runner.OS}}-${{hashFiles('themes/typography/node_modules/package-lock.json')}}
+      - name: Install Dependencies (Theme, if Cache Miss)
+        if: steps.cache-node-modules-theme.outputs.cache-hit != 'true'
+        run: pushd themes/typography/node_modules && npm install && popd
+      - name: Site Buildout
+        run: npm run build
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: deployable
+          path: public
+          retention-days: 7
