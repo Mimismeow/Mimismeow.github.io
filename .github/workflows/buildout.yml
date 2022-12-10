@@ -61,7 +61,7 @@ jobs:
           tar \
             --dereference --hard-dereference \
             --directory "$INPUT_PATH" \
-            -czvf "$RUNNER_TEMP/deployable.tar.gz" \
+            -czvf "deployable.tar.gz" \
             --exclude=.git \
             --exclude=.github \
             .
@@ -71,5 +71,5 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: github-pages
-          path: "$RUNNER_TEMP/deployable.tar.gz"
+          path: "deployable.tar.gz"
           retention-days: 7
