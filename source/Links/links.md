@@ -32,6 +32,10 @@ title: 链接
 
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng)，莫斯科电影厂登陆 Youtube，上面能找到许多经典片子的最高清资源（带英文翻译），譬如《战争与和平》《士兵之歌》《春天的十七个瞬间》等等。~~但是为什么《战争与和平》里的法语不翻啊？~~
 
+- [搜韵](https://sou-yun.cn/)，古诗词网站，什么都有，查作品非常方便，~~甚至可以作弊飞花令。~~
+
+- [纪妖](https://www.cbaigui.com/)，查询妖怪的网站。我以前可喜欢读《[山海经](https://book.douban.com/subject/25844774/)》了，还绘过地图、对照着《[楚辞](https://book.douban.com/subject/4917220/)》、《[淮南子](https://book.douban.com/subject/10488575/)》等等做了好多注。
+
   
 
 
@@ -66,6 +70,8 @@ title: 链接
 - [兔子山](https://site.douban.com/211330/)，山田尚子的作品专题站，上面许多影片解析真得细节。
 - [创作者日记](https://kyoani.cn/anibaka)，京阿尼员工的创作日记。
 - [北宇治高校図書館](https://t.me/kitauji_toshokan)，「上低音号」系列动画中文资料备份馆。
+- [轻音少女志](https://space.bilibili.com/172085/channel/collectiondetail?sid=333138)，关于轻音的一些细节考据。
+- [京吹群象志](https://space.bilibili.com/37460327/article)，京吹主配角的细节。
 - [仙剑四完全配音版](https://www.bilibili.com/video/BV1gx411F77K/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，这部作品在我初中时间有着说不完的故事，几年前还刷了一遍，感触很多。人是会长大的啊！
 - [淤泥之花与空心石](https://www.bilibili.com/video/BV1v64y1y79w/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，这个 COC 跑团的 replay 有点厉害的，可以当一部作品来看了。
 
