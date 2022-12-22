@@ -1,7 +1,7 @@
 ---
 title: 再见了，永远的 Evangelion
 tag: 四叠半
-desc: Evangelion 3.0+1.0 影评
+date: 2022-12-10
 ---
 
 <br/>

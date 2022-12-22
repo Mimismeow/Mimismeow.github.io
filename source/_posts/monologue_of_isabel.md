@@ -1,6 +1,7 @@
 ---
 title: Monologue of Isabel Watching It Rain in Macondo
 tags: 竹里馆
+date: 2022-12-10
 ---
 
 <br/>

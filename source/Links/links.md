@@ -81,6 +81,23 @@ title: 链接
 
 <br/>
 
+#### 一些博客与友链
+
+<br/>
+
+- [Homura's blog](https://homura.live/)
+- [Hayami's blog](https://hayami.typlog.io/)，日常人间观察。
+- [Idling on cloud](https://idling.cloud/)
+- [Ice1000's blog](http://ice1000.org/)
+
+
+
+---
+
+<br/>
+
+
+
 #### 我也不知道是什么
 
 

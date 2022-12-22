@@ -1,7 +1,7 @@
 ---
-title: Someday in the rain
+title: Someday in the rain 凉宫春日的忧郁
 tags: 四叠半
-desc: Someday in the rain 凉宫春日的忧郁
+date: 2022-12-10
 ---
 
 <br/>

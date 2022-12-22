@@ -1,7 +1,7 @@
 ---
 title: The Mirror
 tags: 时光机
-desc: The Mirror 镜子 塔可夫斯基 书评
+date: 2022-12-10
 ---
 
 <br/>
