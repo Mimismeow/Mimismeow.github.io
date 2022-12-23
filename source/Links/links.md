@@ -63,7 +63,7 @@ title: 链接
 
 <br/>
 
-- [纪录片：神作《塞尔达传说 荒野之息》是如何炼成的？](https://www.bilibili.com/video/BV1nx411r7Kh/?vd_source=cadebb52993d8ab2c0f257a19ba080e8) 爆肝两百多个小时塞尔达，在这个纪录片里真得能学到不少东西，虽然我不做游戏。
+- [纪录片：神作《塞尔达传说 荒野之息》是如何炼成的？](https://www.bilibili.com/video/BV1nx411r7Kh/?vd_source=cadebb52993d8ab2c0f257a19ba080e8) 爆肝两百多个小时塞尔达，在这个纪录片里真得能学到不少东西。
 - [odd taxi 广播剧](https://www.bilibili.com/video/BV1og411M7Gn/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，大家看完正片后不要忘了看这个广播剧呀，解释了很多正片里没有解释的情节。
 - [《吹响吧！上低音号》五周年纪念 Disc《闪闪发光的Passage》](https://www.bilibili.com/video/BV1UK4y1N7c8/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，以广播剧的形式呈现了一些未收录在动画中的故事。
 - [京吹学报](https://hibikilogy.github.io/)，作为合格的吹吹人怎么能不学吹学呢？快进来考试！
@@ -74,6 +74,7 @@ title: 链接
 - [京吹群象志](https://space.bilibili.com/37460327/article)，京吹主配角的细节。
 - [仙剑四完全配音版](https://www.bilibili.com/video/BV1gx411F77K/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，这部作品在我初中时间有着说不完的故事，几年前还刷了一遍，感触很多。人是会长大的啊！
 - [淤泥之花与空心石](https://www.bilibili.com/video/BV1v64y1y79w/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，这个 COC 跑团的 replay 有点厉害的，可以当一部作品来看了。
+- [立直麻将的相关资料整理](https://wangjiezhe.com/posts/2020-08-02-Riichi-mahjong-resources/)，来打麻将吧！
 
 
 
@@ -88,6 +89,7 @@ title: 链接
 - [Homura's blog](https://homura.live/)
 - [Hayami's blog](https://hayami.typlog.io/)，日常人间观察。
 - [Idling on cloud](https://idling.cloud/)
+- [ahxxm's blog](https://ahxxm.com/)
 - [Ice1000's blog](http://ice1000.org/)
 
 
@@ -104,9 +106,10 @@ title: 链接
 
 <br/>
 
-- [国际音标 IPA 发音大全](https://www.bilibili.com/video/BV1QA411i7Yf/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，学习。
-- [薇爾莉特能不能在湖面上踏水而行?](https://pb.ps-taiwan.org/modules/news/article.php?storyid=188)  太长不看：不能。
+- [国际音标 IPA 发音大全](https://www.bilibili.com/video/BV1QA411i7Yf/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
+- [中国传统颜色手册](https://wangjiezhe.com/posts/2020-08-02-Riichi-mahjong-resources/)
+- [薇爾莉特能不能在湖面上踏水而行?](https://pb.ps-taiwan.org/modules/news/article.php?storyid=188)  不能。
 - [蔷薇花园](https://iirose.com/)，好像是个聊天网站，我注册过账号，但是没怎么玩明白。像是一个孤独的自留地。
 - [YattaTachi](https://yattatachi.com/2022-anime-japanese-films-coming-to-u-s-theaters)，收录在美国上映和发行的日本流行文化作品。我经常在这里看有哪些电影什么时候上映。经常有老片轮播。
 - [小鹤音形](https://www.flypy.com/)，~~从全拼转双拼转音形后我腰也不痛、手也不酸了。~~比全拼好用很多，不妨了解下。
-- [繁星阁](https://www.changhai.org/)，这个真得是时代的眼泪了。我也就贴着悼念一下。卢老师现在在网上也还挺活跃的。在微博、推特都有账号。
+- [繁星阁](https://www.changhai.org/)，时代的眼泪。卢昌海老师现在在网上也挺活跃的。在微博、推特都有账号。

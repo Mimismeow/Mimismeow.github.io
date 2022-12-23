@@ -8,7 +8,7 @@ title: 关于
 
 <br/>
 
-这是我的个人主页，你可以叫我秦海碗。本站站名『天仙子』，一作[药引](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BB%99%E5%AD%90_(%E6%A4%8D%E7%89%A9))，一作[词牌](https://zh.m.wikipedia.org/zh-hans/%E5%A4%A9%E4%BB%99%E5%AD%90)。
+这是我的个人主页，你可以叫我秦海碗。本站站名『天仙子』Song of Hyoscyamus)，一作[药引](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BB%99%E5%AD%90_(%E6%A4%8D%E7%89%A9))，一作[词牌](https://zh.m.wikipedia.org/zh-hans/%E5%A4%A9%E4%BB%99%E5%AD%90)。
 
 <br/>
 
@@ -76,3 +76,15 @@ title: 关于
 <br/>
 
 目前尚未计划开通评论区。我很喜欢信息时代前大家互传信件、以心相映的交流方式。书信记录了时光与世界在我们心中留下的声音，它是我们对光阴的礼赞。书信是写给自己的文字，也是两段声音的交互回响。如果你有什么想法、意见、又或者单纯有什么想要分享的，我的电邮是 mimismeoww@gmail.com ，盼君来信。
+
+<br/>
+
+---
+
+<br/>
+
+#### 转载声明
+
+<br/>
+
+本站使用 [署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-Hans) 进行许可。详见 [知识共享许可协议文本](https://creativecommons.net.cn/licenses/meet-the-licenses/)。
