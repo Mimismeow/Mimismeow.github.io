@@ -91,6 +91,7 @@ title: 链接
 - [Idling on cloud](https://idling.cloud/)
 - [ahxxm's blog](https://ahxxm.com/)
 - [Ice1000's blog](http://ice1000.org/)
+- [小触手的书房](https://heiheihei.ca/)
 
 
 

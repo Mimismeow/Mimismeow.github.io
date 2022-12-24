@@ -8,7 +8,7 @@ title: 关于
 
 <br/>
 
-这是我的个人主页，你可以叫我秦海碗。本站站名『天仙子』Song of Hyoscyamus)，一作[药引](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BB%99%E5%AD%90_(%E6%A4%8D%E7%89%A9))，一作[词牌](https://zh.m.wikipedia.org/zh-hans/%E5%A4%A9%E4%BB%99%E5%AD%90)。
+这是我的个人主页，你可以叫我秦海碗。本站站名『天仙子』(Song of Hyoscyamus)，一作[药引](https://zh.wikipedia.org/wiki/%E5%A4%A9%E4%BB%99%E5%AD%90_(%E6%A4%8D%E7%89%A9))，一作[词牌](https://zh.m.wikipedia.org/zh-hans/%E5%A4%A9%E4%BB%99%E5%AD%90)。
 
 <br/>
 
