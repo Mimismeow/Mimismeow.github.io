@@ -38,6 +38,10 @@ title: 链接
 
 - [纪妖](https://www.cbaigui.com/)，查询妖怪的网站。我以前可喜欢读《[山海经](https://book.douban.com/subject/25844774/)》了，还绘过地图、对照着《[楚辞](https://book.douban.com/subject/4917220/)》、《[淮南子](https://book.douban.com/subject/10488575/)》等等做了好多注。
 
+- [别了，魔幻现实主义](https://www.cp.com.cn/Content/2022/05-20/1232206334.html)，《百年孤独》译者范晔老师在商务印书馆做的一次讲座。
+
+- [项飙：当下人们的困惑](https://www.bilibili.com/video/BV1ca4y1s7Zd/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，对谈项飙的一段播客节目。
+
   
 
 
@@ -54,7 +58,6 @@ title: 链接
 - [鼓腹而游](https://podcasts.apple.com/us/podcast/%E9%BC%93%E8%85%B9%E8%80%8C%E6%B8%B8/id1525513899)，文化人的聊天，喜欢。
 - [东亚观察局](https://podcasts.apple.com/us/podcast/%E4%B8%9C%E4%BA%9A%E8%A7%82%E5%AF%9F%E5%B1%80/id1508293790)，感觉是简中媒体里关于东亚新闻和分析最好的播客。
 - [杯弓舌瘾](https://podcasts.apple.com/us/podcast/%E6%9D%AF%E5%BC%93%E8%88%8C%E7%98%BE/id1483414071)，酒类聊天向节目。
-- [项飙：当下人们的困惑](https://www.bilibili.com/video/BV1ca4y1s7Zd/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，对谈项飙的一段播客节目。
 
 
 
@@ -66,6 +69,7 @@ title: 链接
 
 <br/>
 
+- [日本漫画家协会奖](https://www.wikiwand.com/zh-sg/%E6%97%A5%E6%9C%AC%E6%BC%AB%E7%95%AB%E5%AE%B6%E5%8D%94%E6%9C%83%E8%B3%9E)，[日本文化厅媒体艺术祭漫画部门](https://j-mediaarts.jp/award/previous/)，[手塚治虫文化賞](https://ja.wikipedia.org/wiki/%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB%E6%96%87%E5%8C%96%E8%B3%9E)（有短篇奖），对漫荒说 NO ! 关于日本的有哪些漫画大奖可以看这篇 [日本の漫画賞](https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E6%BC%AB%E7%94%BB%E8%B3%9E)。
 - [纪录片：神作《塞尔达传说 荒野之息》是如何炼成的？](https://www.bilibili.com/video/BV1nx411r7Kh/?vd_source=cadebb52993d8ab2c0f257a19ba080e8) 
 - [odd taxi 广播剧](https://www.bilibili.com/video/BV1og411M7Gn/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，看完正片后不要忘了看这个广播剧呀，解释了很多正片里没有解释的情节。
 - [《吹响吧！上低音号》五周年纪念 Disc《闪闪发光的Passage》](https://www.bilibili.com/video/BV1UK4y1N7c8/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，以广播剧的形式呈现了一些未收录在动画中的故事。

@@ -87,4 +87,4 @@ title: 关于
 
 <br/>
 
-本站使用 [署名-相同方式共享 4.0 国际 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh-Hans) 进行许可。详见 [知识共享许可协议文本](https://creativecommons.net.cn/licenses/meet-the-licenses/)。
+本站使用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 进行许可。详见 [知识共享许可协议文本](https://creativecommons.net.cn/licenses/meet-the-licenses/)。
