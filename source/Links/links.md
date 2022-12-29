@@ -21,17 +21,32 @@ title: 链接
 <br/>
 
 - [掘火档案](https://www.digforfire.net/)，有各种书影音的评论、博客、访谈、翻译、电台等等，覆盖很广。特别是这些西语翻译材料真得有用！
+
 - [村上春树](https://www.harukimurakami.com/)，似乎是一家出版社建的网站。对我来说里面最有用的部分是收录了村上小说中出现的音乐。他小说里有写到很多爵士乐和古典乐，读的时候我经常也同步放起来听。譬如读 [1Q84](https://tianxianzi.me/2022/12/10/1q84/) 时听烂了那部雅纳切克的[小交响曲](https://zh.m.wikipedia.org/zh-hans/%E5%B0%8F%E4%BA%A4%E5%93%8D%E6%9B%B2_(%E9%9B%85%E7%BA%B3%E5%88%87%E5%85%8B))，都会背了。
+
 - [村上电台](https://www.bilibili.com/video/BV12q4y1d7Q4/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，村上本人的音乐电台。他的声音听起来真得很年轻，像只有三四十的样子。
+
 - [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
+
 - [NHK 行家本色](https://www.bilibili.com/video/BV13Y411j7qN/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，我很喜欢看的节目，对各行各业的厉害人物作了采访，阐明了他们各自的职业精神。NHK 节目组还有 [纪实72小时](https://www3.nhk.or.jp/nhkworld/en/tv/72hours/) 以及 [可以跟着去你家吗](https://video.tv-tokyo.co.jp/ietsuite/)，这两个节目我经常看，不过好像没找到什么完整的烤肉。 
+
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng)，莫斯科电影厂登陆 Youtube，上面能找到许多经典片子的最高清资源（带英文翻译），譬如《战争与和平》《士兵之歌》《春天的十七个瞬间》等等。~~但是为什么《战争与和平》里的法语不翻啊？~~
+
 - [搜韵](https://sou-yun.cn/)，古诗词网站，查作品非常方便，~~可以作弊飞花令。~~
+
 - [汉典](https://www.zdic.net/)，学习古文的好伙伴。
+
 - [纪妖](https://www.cbaigui.com/)，查询妖怪的网站。我以前可喜欢读《[山海经](https://book.douban.com/subject/25844774/)》了，还绘过地图、对照着《[楚辞](https://book.douban.com/subject/4917220/)》、《[淮南子](https://book.douban.com/subject/10488575/)》等等做了好多注。
+
 - [书格](https://new.shuge.org/)，开放的古籍博物馆。
+
 - [Goole Art & Cultures](https://artsandculture.google.com/)，开放艺术馆。
+
 - [端阅读](https://theinitium.com/)，记录中港台在地故事。
+
+- [汉字标准格式](https://hanzi.pro/)
+
+  
 
 
 
@@ -144,7 +159,7 @@ title: 链接
 
 - [Blog of Music](https://www.blogofmusic.com/)
 
-- [一座桥在水上's Blog](https://blog.othing.xyz/)
+- [一座桥在水上的博客](https://blog.othing.xyz/)
 
 - [翻译动态](https://fanyi.news/)
 
@@ -153,6 +168,8 @@ title: 链接
 - [Velas 电波站](https://www.velasx.com/)
 
 - [Hayami's blog](https://hayami.typlog.io/)
+
+- [终末端子的博客](https://ioover.net/)
 
 - [Innei's blog](https://innei.ren/)
 
