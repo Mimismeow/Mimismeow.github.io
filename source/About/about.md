@@ -47,11 +47,6 @@ title: 关于
 
 <br/>
 
-
-为了避免因我的啰嗦而带来的阅读不便，在右侧**标签页**中你会看到如下的很粗略的分类：
-
-<br/>
-
 - **人间世**：日记、随笔。取名自《庄子》内篇 人间世 第四。
 - **逍遥游**：旅行见闻。取名自 《庄子》内篇 逍遥游 第一。
 - **十日谈**：一些不成熟的小说或段落。取名自乔万尼·薄伽丘的小说《[十日谈](https://book.douban.com/subject/25897666/)》。
@@ -75,9 +70,21 @@ title: 关于
 
 <br/>
 
-目前尚未计划开通评论区。我很喜欢信息时代前大家互传信件、以心相映的交流方式。书信记录了时光与世界在我们心中留下的声音，它是我们对光阴的礼赞。书信是写给自己的文字，也是两段声音的交互回响。如果你有什么想法、意见、又或者单纯有什么想要分享的，我的电邮是 mimismeoww@gmail.com ，盼君来信。
+目前尚未计划开通评论区。我很喜欢信息时代前大家互传信件、以心相映的交流方式。书信记录了时光与世界在我们心中留下的声音，是我们对光阴的礼赞。它是写给自己的文字，也是两段声音的交互回响。如果你有什么想法、意见、又或者单纯有什么想要分享的，请写信给我： mimismeoww@gmail.com ，盼君来信。
 
 <br/>
+
+---
+
+<br/>
+
+#### 如何订阅
+
+<br/>
+
+推荐使用 RSS 订阅，该站『天仙子』的 RSS 源为：https://tianxianzi.me/atom.xml。如果您不熟悉 RSS 订阅，请参考[少数派](https://sspai.com/)的文章《[高效获取信息，你需要这份 RSS 入门指南](https://sspai.com/post/56391)》，该文章也推荐了一款可以自动抓取 RSS 地址的插件 [RSS Hub Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)。
+
+
 
 ---
 
@@ -87,4 +94,4 @@ title: 关于
 
 <br/>
 
-本站使用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 进行许可。详见 [知识共享许可协议文本](https://creativecommons.net.cn/licenses/meet-the-licenses/)。
+本站使用 [署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 进行许可。关于不同许可的区别，见 [知识共享许可协议文本](https://creativecommons.net.cn/licenses/meet-the-licenses/)。
