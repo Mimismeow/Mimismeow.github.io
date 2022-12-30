@@ -149,7 +149,7 @@ title: 链接
 
 <br/>
 
-#### 一些个人喜欢的中文博客
+#### 一些个人jtd的中文博客
 
 <br/>
 
@@ -173,7 +173,9 @@ title: 链接
 
 - [终末端子的博客](https://ioover.net/)
 
-- [Innei's blog](https://innei.ren/)
+- [mes ames](https://moi-mo.github.io)
+
+- [冷酷蹦迪](https://www.hezicola.com/)
 
   
 
