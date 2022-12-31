@@ -69,7 +69,7 @@ title: 关于
 
 <br/>
 
-推荐使用 RSS 订阅，该站『天仙子』的 RSS 源为：http~s://tianxianzi.~me/atom.~xml （请去除 ~ 符号）。如果您不熟悉 RSS 订阅，请参考[少数派](https://sspai.com/)的文章《[高效获取信息，你需要这份 RSS 入门指南](https://sspai.com/post/56391)》，该文章也推荐了一款可以自动抓取 RSS 地址的插件 [RSS Hub Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)。
+推荐使用 RSS 订阅。如果您不熟悉 RSS 订阅，请参考[少数派](https://sspai.com/)的文章《[高效获取信息，你需要这份 RSS 入门指南](https://sspai.com/post/56391)》，该文章也推荐了一款可以自动抓取 RSS 地址的插件 [RSS Hub Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)。
 
 
 
