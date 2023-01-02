@@ -28,7 +28,7 @@ title: 链接
 
 - [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
 
-- [NHK 行家本色](https://www.bilibili.com/video/BV13Y411j7qN/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，我很喜欢看的节目，对各行各业的厉害人物作了采访，阐明了他们各自的职业精神。NHK 节目组还有 [纪实72小时](https://www3.nhk.or.jp/nhkworld/en/tv/72hours/) 以及 [可以跟着去你家吗](https://video.tv-tokyo.co.jp/ietsuite/)，这两个节目我经常看，不过好像没找到什么完整的烤肉。 
+- [NHK 行家本色](https://www.bilibili.com/video/BV13Y411j7qN/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，一个汉化合集，我很喜欢看的节目，对各行各业的厉害人物作了采访，阐明了他们各自的职业精神。NHK 节目组还有 [纪实72小时](https://www3.nhk.or.jp/nhkworld/en/tv/72hours/) 以及 [可以跟着去你家吗](https://video.tv-tokyo.co.jp/ietsuite/)，这两个节目我经常看，不过好像没找到什么完整的烤肉。 
 
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng)，莫斯科电影厂登陆 Youtube，上面能找到许多经典片子的最高清资源（带英文翻译），譬如《战争与和平》《士兵之歌》《春天的十七个瞬间》等等。~~但是为什么《战争与和平》里的法语不翻啊？~~
 
@@ -142,6 +142,7 @@ title: 链接
 - [Idling on Cloud](https://idling.cloud/)
 - [ahxxm's blog](https://ahxxm.com/)
 - [Ice1000's blog](http://ice1000.org/)
+- [Pseudoyu](https://www.pseudoyu.com/zh/)
 
 <br/>
 

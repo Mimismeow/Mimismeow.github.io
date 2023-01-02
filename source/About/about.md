@@ -36,6 +36,7 @@ title: 关于
 
 - **人间世**：日记、随笔。取名自《庄子》内篇 人间世 第四。
 - **逍遥游**：旅行见闻。取名自 《庄子》内篇 逍遥游 第一。
+- **大宗师**：职业与职业精神相关的内容。取名自 《庄子》内篇 大宗师 第六。
 - **十日谈**：一些不成熟的小说或段落。取名自乔万尼·薄伽丘的小说《[十日谈](https://book.douban.com/subject/25897666/)》。
 - **诗三百**：诗歌。取名自《诗经》，孔子云：「《诗》三百，一言以蔽之，曰：思无邪。」
 - **竹里馆**：书评、读书笔记。竹里馆是王维的书斋名。同一本书的书评与读书笔记会更新在同一篇文章下，所以在开坑后会不断更新，直到读完。
@@ -69,7 +70,7 @@ title: 关于
 
 <br/>
 
-推荐使用 RSS 订阅。如果您不熟悉 RSS 订阅，请参考[少数派](https://sspai.com/)的文章《[高效获取信息，你需要这份 RSS 入门指南](https://sspai.com/post/56391)》，该文章也推荐了一款可以自动抓取 RSS 地址的插件 [RSS Hub Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)。
+推荐使用 RSS 订阅。如果您不熟悉 RSS 订阅（毕竟这已经是互联网的老古董了），请参考[少数派](https://sspai.com/)的文章《[高效获取信息，你需要这份 RSS 入门指南](https://sspai.com/post/56391)》，该文章也推荐了一款可以自动抓取 RSS 地址的插件 [RSS Hub Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)。
 
 
 
