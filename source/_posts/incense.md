@@ -24,7 +24,7 @@ date: 2023-01-02
 
 
 
-- #### [沉香甘味合わせ](https://www.nipponkodo.co.jp/shop/products/detail/36697)（sweet aloeswood)
+#### [沉香甘味合わせ](https://www.nipponkodo.co.jp/shop/products/detail/36697)（sweet aloeswood)
 
 <br/>
 
@@ -48,7 +48,7 @@ date: 2023-01-02
 
 
 
-- #### [千歳](https://www.kyukyodo-shop.co.jp/?pid=136582918)（Chitose）
+#### [千歳](https://www.kyukyodo-shop.co.jp/?pid=136582918)（Chitose）
 
 <br/>
 
@@ -64,7 +64,7 @@ date: 2023-01-02
 
 
 
-- #### [笑蘭香](https://www.kyukyodo-shop.co.jp/?pid=136582944)（Shoran Koh）
+#### [笑蘭香](https://www.kyukyodo-shop.co.jp/?pid=136582944)（Shoran Koh）
 
 <br/>
 
@@ -80,7 +80,7 @@ date: 2023-01-02
 
 
 
-- #### [舞衣](https://www.kyukyodo-shop.co.jp/?pid=136582912)（Maigoromo）
+#### [舞衣](https://www.kyukyodo-shop.co.jp/?pid=136582912)（Maigoromo）
 
 <br/>
 
@@ -104,7 +104,7 @@ date: 2023-01-02
 
 
 
-- #### [清靄](https://www.kyukyodo-shop.co.jp/?pid=136582923)（Seiai）
+#### [清靄](https://www.kyukyodo-shop.co.jp/?pid=136582923)（Seiai）
 
 <br/>
 
@@ -120,7 +120,7 @@ date: 2023-01-02
 
 
 
-- #### [真如](https://www.kyukyodo-shop.co.jp/?pid=136582947)（Shinnyo）
+#### [真如](https://www.kyukyodo-shop.co.jp/?pid=136582947)（Shinnyo）
 
 <br/>
 
@@ -158,7 +158,7 @@ date: 2023-01-02
 
 
 
-- #### [沈香 陽成](https://www.koh.co.jp/products/jitsuyo/yozei/)（JINKO YOZEI）
+#### [沈香 陽成](https://www.koh.co.jp/products/jitsuyo/yozei/)（JINKO YOZEI）
 
 <br/>
 
@@ -170,39 +170,31 @@ date: 2023-01-02
 
 <br/>
 
-**椨皮粉**（tabu no ki）是一种香粉，说到 tabu no ki 就得说到 makko，后者是一种香粉，能作为香的黏合剂，也能提供一定的香木气味。虽然 tabu no ki 经常被叫作 makko，但 tabu no ki 指的是 makko 里的天然木质黏合剂。椨皮，通过英文转译，我查到对应的植物应该是红楠，
+- **椨皮粉**（tabu no ki）是一种香粉，说到 tabu no ki 就得说到 makko，后者是一种香粉，能作为香的黏合剂，也能提供一定的香木气味。虽然 tabu no ki 经常被叫作 makko，但 tabu no ki 指的是 makko 里的天然木质黏合剂。椨皮，通过英文转译，我查到对应的植物应该是红楠，
+
+  > 红楠（学名：Machilus thunbergii）是樟科桢楠属常绿大乔木。台湾原生种，为樟科润楠属下的一个种。嫩叶和花苞呈现红色，而称红楠。红楠分布于中国﹑韩国﹑日本，台湾常见于海拔2300公尺以下的阔叶林。树皮富含黏液，制粉可为香的黏合剂。（引自 wiki）
 
 <br/>
 
-> 红楠（学名：Machilus thunbergii）是樟科桢楠属常绿大乔木。台湾原生种，为樟科润楠属下的一个种。嫩叶和花苞呈现红色，而称红楠。红楠分布于中国﹑韩国﹑日本，台湾常见于海拔2300公尺以下的阔叶林。树皮富含黏液，制粉可为香的黏合剂。（引自 wiki）
+- **インド産白檀**：印度产白檀
 
 <br/>
 
-**インド産白檀**：印度产白檀
+- **かっ香**：
+
+  > 广藿香 (Pogostemon cablin)，唇形科多年生草本植物。原產地印度或非洲。全草含揮發油，可用作强刺激药与芳香料，是香水常見成分。具有特殊的一種土味的香氣。能夠幫助乾燥的皮膚，有抗憂鬱、抗發炎、殺菌、催情、抗黴菌特性的效果。（引自 wiki）
 
 <br/>
 
-**かっ香**：
+- **零陵香**：这个我查不准啊，英文上对应的是
+
+  > 假排草（學名：Lysimachia sikokiana）是報春花科珍珠菜屬的植物。分布於台灣島、日本、菲律賓等地，生長於海拔1,200米至2,300米的地區，常生長在林下和山谷溪邊，目前尚未由人工引種栽培。（引自 wiki）
+
+  但是中文里这个词是古词，零陵香就是「薰草」，又叫「佩兰」，是一种名贵香草。后来以零陵香的名字出现，最初是在北宋年间的《嘉佑补注本草》中，可能是因为它的原产地是湖南零陵吧。
 
 <br/>
 
-> 广藿香 (Pogostemon cablin)，唇形科多年生草本植物。原產地印度或非洲。全草含揮發油，可用作强刺激药与芳香料，是香水常見成分。具有特殊的一種土味的香氣。能夠幫助乾燥的皮膚，有抗憂鬱、抗發炎、殺菌、催情、抗黴菌特性的效果。（引自 wiki）
-
-<br/>
-
-**零陵香**：这个我查不准啊，英文上对应的是
-
-<br/>
-
-> 假排草（學名：Lysimachia sikokiana）是報春花科珍珠菜屬的植物。分布於台灣島、日本、菲律賓等地，生長於海拔1,200米至2,300米的地區，常生長在林下和山谷溪邊，目前尚未由人工引種栽培。（引自 wiki）
-
-<br/>
-
-但是中文里这个词是古词，零陵香就是「薰草」，又叫「佩兰」，是一种名贵香草。后来以零陵香的名字出现，最初是在北宋年间的《嘉佑补注本草》中，可能是因为它的原产地是湖南零陵吧。
-
-<br/>
-
-**贝香**：贝壳香味（我猜可能是贝壳磨成粉提取出来的？）
+- **贝香**：贝壳香味（我猜可能是贝壳磨成粉提取出来的？）
 
 <br/>
 
@@ -218,7 +210,7 @@ date: 2023-01-02
 
 
 
-- #### [沈香 陽明](https://www.koh.co.jp/products/jitsuyo/yomei/)（JINKO YOME）
+#### [沈香 陽明](https://www.koh.co.jp/products/jitsuyo/yomei/)（JINKO YOME）
 
 <br/>
 
@@ -246,7 +238,7 @@ date: 2023-01-02
 
 
 
-- #### [沈香 法円](https://www.koh.co.jp/products/jitsuyo/hoen/)（JINKO HOEN）
+#### [沈香 法円](https://www.koh.co.jp/products/jitsuyo/hoen/)（JINKO HOEN）
 
 <br/>
 
@@ -262,7 +254,7 @@ date: 2023-01-02
 
 
 
-- #### [沈香 香樹林](https://www.koh.co.jp/products/jitsuyo/jinkoh-kojurin/)（JINKO KOJURIN）
+#### [沈香 香樹林](https://www.koh.co.jp/products/jitsuyo/jinkoh-kojurin/)（JINKO KOJURIN）
 
 <br/>
 
@@ -286,7 +278,7 @@ date: 2023-01-02
 
 
 
-- #### [沈水 閑林](https://www.koh.co.jp/products/kemurinosukunai-jitsuyo/jinsui_kanrin/)（JINSUI KANRIN）
+#### [沈水 閑林](https://www.koh.co.jp/products/kemurinosukunai-jitsuyo/jinsui_kanrin/)（JINSUI KANRIN）
 
 <br/>
 
@@ -310,7 +302,7 @@ date: 2023-01-02
 
 
 
-- #### [沈水 清閑](https://www.koh.co.jp/products/kemurinosukunai-jitsuyo/jinsui_seikan/)（JINSUI SEIKAN）
+#### [沈水 清閑](https://www.koh.co.jp/products/kemurinosukunai-jitsuyo/jinsui_seikan/)（JINSUI SEIKAN）
 
 <br/>
 
