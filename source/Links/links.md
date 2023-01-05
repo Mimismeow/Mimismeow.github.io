@@ -60,6 +60,7 @@ title: 链接
 
 - [忽左忽右](https://podcasts.apple.com/us/podcast/%E5%BF%BD%E5%B7%A6%E5%BF%BD%E5%8F%B3/id1493503146)，一款文化沙龙类播客节目。刘怡的中东南亚栏目、沙青青的谍战栏目、周小康的能源与地缘政治栏目、高林的十九世纪欧洲栏目等常驻栏目都很推荐，还邀请了许多其他的厉害嘉宾。主播之一的程衍樑说话也有种让人入迷的魔力。总之这是我心目中的播客栏目 No.1！基本每集都听过，有二十几集听了有两三遍。程老板还建了播客帝国 [JustPod](http://justpodmedia.com/)，里面有杨一关于追踪播客领域动态的内容「[播客一下](https://justpodnews.com/)」。
 - [鼓腹而游](https://podcasts.apple.com/us/podcast/%E9%BC%93%E8%85%B9%E8%80%8C%E6%B8%B8/id1525513899)，文化人的聊天，喜欢。
+- [昨日之海](https://www.xiaoyuzhoufm.com/podcast/61da42f6fcdb5c6c8fcc167e)，文学类播客，两位姐姐讲话超好听w，理想中的文学院气质。
 - [东亚观察局](https://podcasts.apple.com/us/podcast/%E4%B8%9C%E4%BA%9A%E8%A7%82%E5%AF%9F%E5%B1%80/id1508293790)，感觉是简中媒体里关于东亚新闻和分析最好的播客。
 - [杯弓舌瘾](https://podcasts.apple.com/us/podcast/%E6%9D%AF%E5%BC%93%E8%88%8C%E7%98%BE/id1483414071)，酒类聊天向节目。
 
@@ -143,6 +144,7 @@ title: 链接
 - [ahxxm's blog](https://ahxxm.com/)
 - [Ice1000's blog](http://ice1000.org/)
 - [Pseudoyu](https://www.pseudoyu.com/zh/)
+- [Velas 电波站](https://www.velasx.com/)
 
 <br/>
 
@@ -167,8 +169,6 @@ title: 链接
 - [翻译动态](https://fanyi.news/)
 
 - [To the Lighthouse](https://owlswims.com/)
-
-- [Velas 电波站](https://www.velasx.com/)
 
 - [Hayami's blog](https://hayami.typlog.io/)
 
