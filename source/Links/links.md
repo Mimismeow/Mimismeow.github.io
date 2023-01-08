@@ -26,8 +26,6 @@ title: 链接
 
 - [村上电台](https://www.bilibili.com/video/BV12q4y1d7Q4/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，村上本人的音乐电台。他的声音听起来真得很年轻，像只有三四十的样子。
 
-- [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
-
 - [NHK 行家本色](https://www.bilibili.com/video/BV13Y411j7qN/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，一个汉化合集，我很喜欢看的节目，对各行各业的厉害人物作了采访，阐明了他们各自的职业精神。NHK 节目组还有 [纪实72小时](https://www3.nhk.or.jp/nhkworld/en/tv/72hours/) 以及 [可以跟着去你家吗](https://video.tv-tokyo.co.jp/ietsuite/)，这两个节目我经常看，不过好像没找到什么完整的烤肉。 
 
 - [Mosfilm](https://www.youtube.com/c/Mosfilm_eng)，莫斯科电影厂登陆 Youtube，上面能找到许多经典片子的最高清资源（带英文翻译），譬如《战争与和平》《士兵之歌》《春天的十七个瞬间》等等。~~但是为什么《战争与和平》里的法语不翻啊？~~
@@ -46,6 +44,10 @@ title: 链接
 
 - [汉字标准格式](https://hanzi.pro/)
 
+- [陶喆的音乐产房](https://space.bilibili.com/352091301?spm_id_from=333.337.0.0)，陶喆自己讲了一些自己创作时的设计，虽然我很喜欢听陶喆，但是很多元素他不说我真得没听出来（
+
+- [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
+
   
 
 
@@ -63,6 +65,7 @@ title: 链接
 - [昨日之海](https://www.xiaoyuzhoufm.com/podcast/61da42f6fcdb5c6c8fcc167e)，文学类播客，两位姐姐讲话超好听w，理想中的文学院气质。
 - [东亚观察局](https://podcasts.apple.com/us/podcast/%E4%B8%9C%E4%BA%9A%E8%A7%82%E5%AF%9F%E5%B1%80/id1508293790)，感觉是简中媒体里关于东亚新闻和分析最好的播客。
 - [杯弓舌瘾](https://podcasts.apple.com/us/podcast/%E6%9D%AF%E5%BC%93%E8%88%8C%E7%98%BE/id1483414071)，酒类聊天向节目。
+- [The History of Rome](https://podcasts.apple.com/us/podcast/the-history-of-rome/id261654474)，介绍古罗马，讲得非常好。
 
 
 
@@ -111,6 +114,8 @@ title: 链接
 - [创作者日记](https://kyoani.cn/anibaka)，京阿尼员工的创作日记。
 
 - [北宇治高校図書館](https://t.me/kitauji_toshokan)，「上低音号」系列动画中文资料备份馆。
+
+- [Under The Score: Kyoto Animation Videos](https://www.youtube.com/playlist?list=PLQoVKoEXurCsfPK_FZNd3ZFaXHjo1y9nU)：这位京蜜的分析都好棒，就是语速快了点（
 
 - [轻音少女志](https://space.bilibili.com/172085/channel/collectiondetail?sid=333138)，关于轻音的细节考据。
 

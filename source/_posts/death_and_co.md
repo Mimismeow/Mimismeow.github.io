@@ -12,4 +12,4 @@ date: 2022-12-10
 
 <br/>
 
-另外这集播客《[杯弓舌瘾，Ep 59 | 血腥玛丽是 Highball，内格罗尼是马天尼](https://podcasts.apple.com/cn/podcast/59-%E8%A1%80%E8%85%A5%E7%8E%9B%E4%B8%BD%E6%98%AFhighball-%E5%86%85%E6%A0%BC%E7%BD%97%E5%B0%BC%E6%98%AF%E9%A9%AC%E5%A4%A9%E5%B0%BC/id1483414071?i=1000501537991)》也讲到了这本书，嘉宾舒宓是这本书的中文版译者。不过没想到这种书竟然hd
+另外这集播客《[杯弓舌瘾，Ep 59 | 血腥玛丽是 Highball，内格罗尼是马天尼](https://podcasts.apple.com/cn/podcast/59-%E8%A1%80%E8%85%A5%E7%8E%9B%E4%B8%BD%E6%98%AFhighball-%E5%86%85%E6%A0%BC%E7%BD%97%E5%B0%BC%E6%98%AF%E9%A9%AC%E5%A4%A9%E5%B0%BC/id1483414071?i=1000501537991)》也讲到了这本书，嘉宾舒宓是这本书的中文版译者。不过没想到这种书竟然还会有中译本。
