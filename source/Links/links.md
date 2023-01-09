@@ -87,6 +87,8 @@ title: 链接
 
 - [立直麻将的相关资料整理](https://wangjiezhe.com/posts/2020-08-02-Riichi-mahjong-resources/)
 
+- [麻雀ウォッチ](https://www.youtube.com/channel/UCQDA1x6VCsJHlrDEPKE0RPQ)，b 站上有授权汉化「[麻将的职人](https://space.bilibili.com/2899425/channel/series)」，一些大家介绍自己的打牌思路。
+
 - [SCP 基金会](https://scp-wiki-cn.wikidot.com/)，高度机密！
 
 
