@@ -203,7 +203,7 @@ title: 链接
 
 <br/>
 
-- [Noise Online](https://noises.online/)，白噪音发生机。
+- [Noise Online](https://noises.online/)，白噪音发生器。
 - [国际音标 IPA 发音大全](https://www.bilibili.com/video/BV1QA411i7Yf/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
 - [中国传统颜色手册](https://wangjiezhe.com/posts/2020-08-02-Riichi-mahjong-resources/)
 - [蔷薇花园](https://iirose.com/)，好像是个聊天网站，但是没怎么玩明白。像是中学生们孤独的自留地。

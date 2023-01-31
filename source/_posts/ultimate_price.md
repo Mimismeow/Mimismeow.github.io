@@ -11,3 +11,11 @@ date: 2022-12-10
 <br/>
 
 另外 A 叔演奏的[版本](https://www.bilibili.com/video/BV1oN4y1T7G7/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)也非常非常动人。有点难过的。一想到京阿尼的作品就想到那场火灾。唉。这里有一个[三周年追悼式](https://www.bilibili.com/video/BV1ZN4y1T7SB/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，愿逝者安息。
+
+<br/>
+
+---
+
+<br/>
+
+刚刚花了两个钟头听完了京紫的音乐集 [Violet Evergarden: Automemories](https://open.spotify.com/album/1RITWu5USu7lcphTyWh6FY)。以前看番的时候有太多地方吸引了注意，以至于没发现它原来这么好听。这次只闭着眼睛听音乐，像是在听一首叙事长诗，许多曲都能让我感受到薇妹当时的情绪和想法，听完整砖就像以薇妹的视角又经历了一遍故事。好难过，又陷进去了。
