@@ -44,6 +44,8 @@ title: 链接
 
 - [汉字标准格式](https://hanzi.pro/)
 
+- [The Master Class: The Art Of Storytelling, by Neil Gaiman](https://www.masterclass.com/classes/neil-gaiman-teaches-the-art-of-storytelling)，（小声：有不花钱就能看的中译：[讲故事的艺术](https://www.bilibili.com/video/BV1FR4y1M73U?p=1&vd_source=cadebb52993d8ab2c0f257a19ba080e8)）
+
 - [陶喆的音乐产房](https://space.bilibili.com/352091301?spm_id_from=333.337.0.0)，陶喆自己讲了一些自己创作时的设计，虽然我很喜欢听陶喆，但是很多元素他不说我真得没听出来（
 
 - [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
@@ -201,6 +203,7 @@ title: 链接
 
 <br/>
 
+- [Noise Online](https://noises.online/)，白噪音发生机。
 - [国际音标 IPA 发音大全](https://www.bilibili.com/video/BV1QA411i7Yf/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
 - [中国传统颜色手册](https://wangjiezhe.com/posts/2020-08-02-Riichi-mahjong-resources/)
 - [蔷薇花园](https://iirose.com/)，好像是个聊天网站，但是没怎么玩明白。像是中学生们孤独的自留地。
