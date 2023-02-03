@@ -1,5 +1,5 @@
 ---
-title: 白天的房子，夜晚的房子
+title: Dom dzienny, dom nocny | 白天的房子，夜晚的房子
 tags: 竹里馆
 date: 2022-12-10
 ---

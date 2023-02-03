@@ -1,5 +1,5 @@
 ---
-title: 万火归一
+title: Todos los fuegos el fuego | 万火归一
 tags: 竹里馆
 date: 2022-12-10
 ---

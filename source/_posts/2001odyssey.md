@@ -1,5 +1,5 @@
 ---
-title: 2001 太空漫游
+title: 2001: A Space Odyssey | 2001 太空漫游
 tags: 时光机
 date: 2022-12-10
 ---

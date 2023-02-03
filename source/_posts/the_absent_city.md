@@ -1,5 +1,5 @@
 ---
-title: The Absent City | 缺席的城市
+title: La ciudad ausente | 缺席的城市
 tags: 竹里馆
 date: 2023-01-08
 ---

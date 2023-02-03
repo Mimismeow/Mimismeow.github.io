@@ -1,5 +1,5 @@
 ---
-title: 大国政治的悲剧
+title: The Tragedy of Great Power Politics | 大国政治的悲剧
 tags: 竹里馆
 date: 2022-12-10
 ---

@@ -1,5 +1,5 @@
 ---
-title: Alte Meister 历代大师
+title: Alte Meister | 历代大师
 tags: 竹里馆
 date: 2023-01-30
 ---

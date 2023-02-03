@@ -1,5 +1,5 @@
 ---
-title: 再见了，永远的 Evangelion
+title: シン・エヴァンゲリオン劇場版𝄇 | EVA 最终剧场版
 tag: 四叠半
 date: 2022-12-10
 ---

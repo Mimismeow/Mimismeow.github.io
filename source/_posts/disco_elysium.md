@@ -1,5 +1,5 @@
 ---
-title: Disco Elysium 极乐迪斯科
+title: Disco Elysium | 极乐迪斯科
 tags: 竹里馆
 date: 2022-12-22
 ---

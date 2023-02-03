@@ -1,5 +1,5 @@
 ---
-title: Solaris
+title: Солярис | 飞向太空
 tags: 时光机
 date: 2022-12-10
 ---

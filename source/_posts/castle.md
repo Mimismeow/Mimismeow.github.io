@@ -1,5 +1,5 @@
 ---
-title: 城堡
+title: Das Schloss | 城堡
 tags: 竹里馆
 date: 2022-12-10
 ---

@@ -1,5 +1,5 @@
 ---
-title: 不适之地
+title: Unaccustomed Earth | 不适之地
 tags: 竹里馆
 date: 2022-12-10
 ---

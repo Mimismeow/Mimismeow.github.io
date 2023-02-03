@@ -1,5 +1,5 @@
 ---
-title: Someday in the rain 凉宫春日的忧郁
+title: Someday in the rain 涼宮ハルヒの憂鬱
 tags: 四叠半
 date: 2022-12-10
 ---

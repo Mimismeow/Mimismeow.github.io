@@ -1,5 +1,5 @@
 ---
-title: 也许你该找个人聊聊
+title: Maybe You Should Talk to Someone | 也许你该找个人聊聊
 tags: 竹里馆
 date: 2022-12-10
 ---

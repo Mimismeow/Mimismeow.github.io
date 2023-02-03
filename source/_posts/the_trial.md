@@ -1,5 +1,5 @@
 ---
-title: 判决 | 司炉
+title: Das Urteil | 判决
 tags: 竹里馆
 date: 2022-12-10
 ---

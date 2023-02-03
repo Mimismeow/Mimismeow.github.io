@@ -1,5 +1,5 @@
 ---
-title: The Mirror
+title: Зеркало | 镜子
 tags: 时光机
 date: 2022-12-10
 ---

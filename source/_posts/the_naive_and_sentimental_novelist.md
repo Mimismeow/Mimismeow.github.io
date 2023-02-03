@@ -1,5 +1,5 @@
 ---
-title: 天真的和感伤的小说家
+title: Saf ve Düşünceli Romancı | 天真的和感伤的小说家
 tags: 竹里馆
 date: 2023-01-02
 ---
