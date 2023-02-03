@@ -26,3 +26,6 @@ date: 2022-12-10
 
 **冒险岛**的[布达佩斯开服 5000 天纪念音乐会](https://www.bilibili.com/video/BV1Px411k7Ra/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，非常好听。冒险岛我也玩了有十年以上了，从小学玩到高中，在游戏里结时了很多朋友。它的音乐也是没得说，真得。
 
+<br/>
+
+**つるの剛士**的[つるのうた名曲集](https://open.spotify.com/album/0ol1oO5Vo4MQtFmPzaoQRH?si=czMecmOZTQKW_FDGpfMS1w)，很多经典歌曲，经常工作的时候当作背景音听。

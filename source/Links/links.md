@@ -10,6 +10,57 @@ title: 链接
 
 在此页记录一些我很喜欢或者很有用的网站、节目（带字幕）。页面持续建设中。
 
+<br/>
+
+---
+
+
+
+<br/>
+
+#### 关于博客
+
+<br/>
+
+- [Motherfucking website](https://motherfuckingwebsite.com/)，暴躁老哥教你写博客。
+- [中文独立博客列表（网页版）](https://feeds.pub/cn-indie)，[中文独立博客列表（Github Pages）](https://github.com/timqian/chinese-independent-blogs)。
+
+<br/>
+
+#### 友链
+
+<br/>
+
+- [Homura's blog](https://homura.live/)
+- [甜鱼Ayu](https://ayu.land/)
+- [Idling on Cloud](https://idling.cloud/)
+- [ahxxm's blog](https://ahxxm.com/)
+- [Ice1000's blog](http://ice1000.org/)
+- [Pseudoyu](https://www.pseudoyu.com/zh/)
+- [Velas 电波站](https://www.velasx.com/)
+
+<br/>
+
+如果有需要添加友链的，请电邮 mimismeoww@gmail.com
+
+<br/>
+
+#### 一些个人觉得有趣的中文博客
+
+<br/>
+
+- [小触手的书房](https://heiheihei.ca/)
+- [柯棋瀚的个人主页](https://me.kqh.me/)
+- [樸論清言](https://plausistory.blog/)
+- [Blog of Music](https://www.blogofmusic.com/)
+- [一座桥在水上的博客](https://blog.othing.xyz/)
+- [翻译动态](https://fanyi.news/)
+- [To the Lighthouse](https://owlswims.com/)
+- [Hayami's blog](https://hayami.typlog.io/)
+- [终末端子的博客](https://ioover.net/)
+- [mes ames](https://moi-mo.github.io)
+- [冷酷蹦迪](https://www.hezicola.com/)
+
 
 
 ---
@@ -124,70 +175,6 @@ title: 链接
 - [轻音少女志](https://space.bilibili.com/172085/channel/collectiondetail?sid=333138)，关于轻音的细节考据。
 
 - [京吹群象志](https://space.bilibili.com/37460327/article)，京吹主配角群像介绍。
-
-  
-
-
-
----
-
-
-
-<br/>
-
-#### 关于博客
-
-<br/>
-
-- [Motherfucking website](https://motherfuckingwebsite.com/)，暴躁老哥教你写博客。
-- [中文独立博客列表（网页版）](https://feeds.pub/cn-indie)，[中文独立博客列表（Github Pages）](https://github.com/timqian/chinese-independent-blogs)。
-
-<br/>
-
-#### 友链
-
-<br/>
-
-- [Homura's blog](https://homura.live/)
-- [Idling on Cloud](https://idling.cloud/)
-- [ahxxm's blog](https://ahxxm.com/)
-- [Ice1000's blog](http://ice1000.org/)
-- [Pseudoyu](https://www.pseudoyu.com/zh/)
-- [Velas 电波站](https://www.velasx.com/)
-
-<br/>
-
-如果有需要添加友链的，请电邮 mimismeoww@gmail.com
-
-<br/>
-
-#### 一些个人觉得有趣的中文博客
-
-<br/>
-
-- [小触手的书房](https://heiheihei.ca/)
-
-- [柯棋瀚的个人主页](https://me.kqh.me/)
-
-- [樸論清言](https://plausistory.blog/)
-
-- [Blog of Music](https://www.blogofmusic.com/)
-
-- [一座桥在水上的博客](https://blog.othing.xyz/)
-
-- [翻译动态](https://fanyi.news/)
-
-- [To the Lighthouse](https://owlswims.com/)
-
-- [Hayami's blog](https://hayami.typlog.io/)
-
-- [终末端子的博客](https://ioover.net/)
-
-- [mes ames](https://moi-mo.github.io)
-
-- [冷酷蹦迪](https://www.hezicola.com/)
-
-  
 
 
 
