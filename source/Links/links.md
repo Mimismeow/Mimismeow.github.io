@@ -24,6 +24,7 @@ title: 链接
 
 - [Motherfucking website](https://motherfuckingwebsite.com/)，暴躁老哥教你写博客。
 - [中文独立博客列表（网页版）](https://feeds.pub/cn-indie)，[中文独立博客列表（Github Pages）](https://github.com/timqian/chinese-independent-blogs)。
+- [Webring](https://webring.xxiivv.com/)
 
 <br/>
 
@@ -60,6 +61,10 @@ title: 链接
 - [终末端子的博客](https://ioover.net/)
 - [mes ames](https://moi-mo.github.io)
 - [冷酷蹦迪](https://www.hezicola.com/)
+- [alice's scribbles](https://alicez.ink/)
+- [邓邓的流水账](https://xhhdd.cc/)
+- [谢谢所有的鱼](https://gregueria.icu/)
+- [糟](https://miyehn.me/blog/)
 
 
 
