@@ -16,7 +16,7 @@ date: 2023-02-15
 
 <br/>
 
-##### Tamagawa Red label $30
+**Tamagawa Red label $30**
 
 <br/>
 
@@ -28,7 +28,7 @@ date: 2023-02-15
 
 <br/>
 
-##### Moon Ring Premium Sake $38
+**Moon Ring Premium Sake $38**
 
 <br/>
 
@@ -40,7 +40,7 @@ date: 2023-02-15
 
 <br/>
 
-##### Kanbara Sake Bride of the Fox $38
+**Kanbara Sake Bride of the Fox $38**
 
 <br/>
 
