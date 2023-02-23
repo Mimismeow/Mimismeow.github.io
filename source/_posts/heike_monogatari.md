@@ -41,3 +41,5 @@ date: 2022-12-24
 <br/>
 
 最后推荐两个相关内容，一是 b 站 up 主「松野小路的动画笔记」的「[平家物语解析](https://space.bilibili.com/17512353/channel/seriesdetail?sid=416419)」，可以作为动画的历史背景补充知识。虽然《平家物语》在日本家喻户晓，也被节选进日本中小学教材，但是那段历史对于我们外国人来说未必熟悉，这个 up 主也翻译了对山田尚子的采访「[山田尚子讲述人生的故事！监督采访前篇后篇完整版](https://www.bilibili.com/video/BV1gL41177KU/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)」，以及对音乐人牛尾宪辅的采访「[牛尾宪辅：山田尚子风格的极致！OST原声音乐采访](https://www.bilibili.com/video/BV1d34y1z76T/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)」。二是播客「[忽左忽右 Ep 127 | 167 平家与源氏：从2021年的一部番剧聊起](https://podcasts.apple.com/mg/podcast/167-%E5%B9%B3%E5%AE%B6%E4%B8%8E%E6%BA%90%E6%B0%8F-%E4%BB%8E2021%E5%B9%B4%E7%9A%84%E4%B8%80%E9%83%A8%E7%95%AA%E5%89%A7%E8%81%8A%E8%B5%B7/id1493503146?i=1000546788013&l=fr)」，很有内容，我听了三遍。
+
+<br/>

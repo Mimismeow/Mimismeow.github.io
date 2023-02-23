@@ -39,6 +39,8 @@ title: 链接
 - [Ice1000's blog](http://ice1000.org/)
 - [Pseudoyu](https://www.pseudoyu.com/zh/)
 - [Velas 电波站](https://www.velasx.com/)
+- [To the Lighthouse](https://owlswims.com/)
+- [Another Dayu](https://anotherdayu.com/)
 
 <br/>
 
@@ -56,7 +58,6 @@ title: 链接
 - [Blog of Music](https://www.blogofmusic.com/)
 - [一座桥在水上的博客](https://blog.othing.xyz/)
 - [翻译动态](https://fanyi.news/)
-- [To the Lighthouse](https://owlswims.com/)
 - [Hayami's blog](https://hayami.typlog.io/)
 - [终末端子的博客](https://ioover.net/)
 - [mes ames](https://moi-mo.github.io)
@@ -65,6 +66,9 @@ title: 链接
 - [邓邓的流水账](https://xhhdd.cc/)
 - [谢谢所有的鱼](https://gregueria.icu/)
 - [糟](https://miyehn.me/blog/)
+- [99 problems](https://jarrywangcn.github.io/)
+- [Albus's Pensieve](https://pensieve.wangxindi.org/)
+- [椒盐豆豉](https://blog.douchi.space/)
 
 
 
@@ -105,6 +109,8 @@ title: 链接
 - [陶喆的音乐产房](https://space.bilibili.com/352091301?spm_id_from=333.337.0.0)，陶喆自己讲了一些自己创作时的设计，虽然我很喜欢听陶喆，但是很多元素他不说我真得没听出来（
 
 - [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
+
+- 余光中的《[现代汉语的西化](https://jerkwin.github.io/2015/07/22/%E8%BD%AC-%E4%BD%99%E5%85%89%E4%B8%AD-%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E7%9A%84%E8%A5%BF%E5%8C%96/)》，Orwell 的 [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)。触目惊心。无论是汉语还是英语，我们的语言都正在失去本身的文学性。语言是一种工具，这没错，但语言也是我们思考与表达自身、社会的方法，它不能被一些粗暴的现象所裹挟。抵制语言腐败。
 
   
 

@@ -23,3 +23,5 @@ date: 2022-12-10
 <br/>
 
 其它的西语文学也零零碎碎读了一点，印象很深的是胡安·鲁尔福的那本《[佩德罗·巴拉莫](https://book.douban.com/subject/6792270/)》，我还读了三遍，它真得是很有魅力的一本书。不过我以前主要的阅读兴趣还是在日本、法国、美国等地方的作品，最近才偶然读些西语作品，譬如《[万火归一](https://book.douban.com/subject/3769738/)》、《[荒野侦探](https://book.douban.com/subject/21855881/)》等。在收藏夹里的还有几本，播客里两位老师也推荐了几本，譬如 奥拉西奥·基罗加的《[爱情、疯狂和死亡的故事](https://book.douban.com/subject/30309781/)》、卡多·皮格利亚的《[缺席的城市](https://book.douban.com/subject/35932955/)》、劳拉·埃斯基韦尔的《[恰似水于巧克力](https://book.douban.com/subject/2141646/)》、奥拉西奥·卡斯特利亚诺斯·莫亚的 《[错乱](https://book.douban.com/subject/35849095/)》等等，特别是范晔老师推荐的那几本我肯定会优先去读的。
+
+<br/>

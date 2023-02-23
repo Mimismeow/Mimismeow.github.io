@@ -37,3 +37,4 @@ date: 2022-12-10
 
 > Only then did I realize that it had cleared and that all around us a silence stretched out, a tranquility, a mysterious and deep beatitude, a perfect state which must have been very much like death. Then footsteps could be heard on the veranda. A clear and completely living voice was heard. Then a cool breeze shook the panel of the door, made the doorknob squeak, and a solid and monumental body, like a ripe fruit, fell deeply into the cistern in the courtyard. Something in the air revealed the presence of an invisible person who was smiling in the darkness. Good Lord, I thought then, confused by the mixup in time. It wouldn’t surprise me now if they were coming to call me to go to last Sunday’s mass.
 
+<br/>

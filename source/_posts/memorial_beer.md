@@ -19,3 +19,5 @@ date: 2022-12-10
 <br/>
 
 说回到酒，我回来后查了查，它属于 DoubleBock ([DoppleBock](https://www.craftbeer.com/styles/german-style-doppelbock#:~:text=%E2%80%9CDoppel%E2%80%9D%20meaning%20%E2%80%9Cdouble%2C,is%20copper%20to%20dark%20brown.))，是加强版的 Bock，属于 Lager 的一支，又被称做 liquid bread。有人形容它是有 IPA 的香但是没有 IPA 的苦。不管别人怎么说，就算你们成千上万的精酿啤酒更加厉害，反正这就是我最喜欢的一支啤酒，以后打算多探索一下这个方向的啤酒。啊，好想去德国啊。
+
+<br/>
