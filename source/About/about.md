@@ -50,6 +50,12 @@ title: 关于
 
 <br/>
 
+<br/>
+
+我不是文科专业毕业的，读的也很少，写不了什么有真知灼见的内容，文章中反而多藏私心，或许可以读着打发时间，并感慨一下「原来世间也是有这样类型的读者的」。在这里我想引用一段伍尔夫作品集里的话：
+
+<br/>
+
 > The common reader, as Dr Johnson implies, differs from the critic and the scholar. He is worse educated, and nature has not gifted him so generously. He reads for his own pleasure rather than to impart knowledge or correct the opinions of others. Above all, he is guided by an instinct to create for himself, out of whatever odds and ends he can come by, some kind of whole -- a portrait of a man, a sketch of an age, a theory of the art of writing. He never ceases, as he reads, to run up some rickety and ramshackle fabric which shall give him the temporary satisfaction of looking sufficiently like the real object to allow of affection, laughter, and argument. Hasty, inaccurate, and superficial, snatching now this poem, now that scrap of old furniture, without caring where he finds it or of what nature it may be so long as it serves his purpose and rounds his structure, his deficiencies as a critic are too obvious to be pointed out; but if he has, as Dr Johnson maintained, some say in the final distribution of poetical honours, then perhaps, it may be worth while to write down a few of the ideas and opinions which, insignificant in themselves, yet contribute to so mighty a result.
 >
 > —— Virginia Woolf: [The Common Reader](https://www.goodreads.com/book/show/18840.The_Common_Reader?from_search=true&from_srp=true&qid=9JZyK36zNZ&rank=1)
