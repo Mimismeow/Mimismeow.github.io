@@ -58,17 +58,21 @@ title: 链接
 - [Blog of Music](https://www.blogofmusic.com/)
 - [一座桥在水上的博客](https://blog.othing.xyz/)
 - [翻译动态](https://fanyi.news/)
+- [失落的世界线](https://polyidiot.wordpress.com/)
 - [Hayami's blog](https://hayami.typlog.io/)
 - [终末端子的博客](https://ioover.net/)
 - [mes ames](https://moi-mo.github.io)
+- [+L.label+](https://dogmoonxdong.wordpress.com/)
 - [冷酷蹦迪](https://www.hezicola.com/)
 - [alice's scribbles](https://alicez.ink/)
 - [邓邓的流水账](https://xhhdd.cc/)
 - [谢谢所有的鱼](https://gregueria.icu/)
 - [糟](https://miyehn.me/blog/)
+- [大Joy在侃村](https://giantjoy.net/)
 - [99 problems](https://jarrywangcn.github.io/)
 - [Albus's Pensieve](https://pensieve.wangxindi.org/)
 - [椒盐豆豉](https://blog.douchi.space/)
+- [%&￥*^3%2$(I<%I](https://fukkix.blog/)
 
 
 
@@ -81,6 +85,10 @@ title: 链接
 <br/>
 
 - [掘火档案](https://www.digforfire.net/)，有各种书影音的评论、博客、访谈、翻译、电台等等，覆盖很广。特别是这些西语翻译材料真得有用！
+
+- [The New Yorker](https://www.newyorker.com/)，非常经典的老牌杂志，文化向。我目前唯一花钱订阅的杂志。
+
+- [Paris Review](https://www.theparisreview.org/)，大名鼎鼎的「巴黎评论」，我主要看作家采访栏目。
 
 - [村上春树](https://www.harukimurakami.com/)，似乎是一家出版社建的网站。对我来说里面最有用的部分是收录了村上小说中出现的音乐。他小说里有写到很多爵士乐和古典乐，读的时候我经常也同步放起来听。譬如读 [1Q84](https://tianxianzi.me/2022/12/10/1q84/) 时听烂了那部雅纳切克的[小交响曲](https://zh.m.wikipedia.org/zh-hans/%E5%B0%8F%E4%BA%A4%E5%93%8D%E6%9B%B2_(%E9%9B%85%E7%BA%B3%E5%88%87%E5%85%8B))，都会背了。
 
@@ -111,6 +119,8 @@ title: 链接
 - [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
 
 - 余光中的《[现代汉语的西化](https://jerkwin.github.io/2015/07/22/%E8%BD%AC-%E4%BD%99%E5%85%89%E4%B8%AD-%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E7%9A%84%E8%A5%BF%E5%8C%96/)》，Orwell 的 [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)。触目惊心。无论是汉语还是英语，我们的语言都正在失去本身的文学性。语言是一种工具，这没错，但语言也是我们思考与表达自身、社会的方法，它不能被一些粗暴的现象所裹挟。抵制语言腐败。
+
+- [野仙子](https://read.douban.com/column/35590181/?icn=from-author-page)，高中学古诗词时很喜欢的一位现代网络诗人「夏婉墨（夏七 / 豹嘤嘤）」的集子，当时读到时惊为天人，非常非常有灵气。
 
   
 

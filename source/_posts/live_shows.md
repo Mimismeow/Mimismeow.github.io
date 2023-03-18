@@ -16,6 +16,10 @@ date: 2022-12-10
 
 <br/>
 
+**中岛美雪**的 [夜会1990](https://www.bilibili.com/video/BV1Z7411x7Z1/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，年轻时的美雪，唉，真得好美啊，而且也有些忧郁。嫉妒。一个人怎么能和她的歌如此契合呢。这是多么完美的艺术。唉。
+
+<br/>
+
 **中森明菜**的 [87演唱会](https://www.bilibili.com/video/BV13x411C7Lx/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，没得说！冲啊！
 
 <br/>
