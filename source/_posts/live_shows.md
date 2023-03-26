@@ -35,3 +35,7 @@ date: 2022-12-10
 **つるの剛士**的[つるのうた名曲集](https://open.spotify.com/album/0ol1oO5Vo4MQtFmPzaoQRH?si=czMecmOZTQKW_FDGpfMS1w)，很多经典歌曲，经常工作的时候当作背景音听。
 
 <br/>
+
+**The Seatbelts** 乐队的「星际牛仔」的现场 [The Seatbelts [Live Concert]](https://www.youtube.com/watch?v=mKVH1EA-qWM&list=PL844D00095BB4D3FC)，超帅啊，感觉很多都比动画原声要带感。
+
+<br/>
