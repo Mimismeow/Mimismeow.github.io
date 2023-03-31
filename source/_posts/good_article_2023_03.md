@@ -17,8 +17,8 @@ date: 2023-03-31
 <br/>
 
 - [忽左忽右 古典文学漫游05｜如何欣赏中国古典小说？](https://podcasts.apple.com/us/podcast/%E5%8F%A4%E5%85%B8%E6%96%87%E5%AD%A6%E6%BC%AB%E6%B8%B805-%E5%A6%82%E4%BD%95%E6%AC%A3%E8%B5%8F%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E5%B0%8F%E8%AF%B4/id1493503146?i=1000602086577)偏知识向的一期，主要介绍了中国古典小说作为「小说」这一题材的一些特点。关于章回体小说这个形式的内涵我以前都没想到过，原来章节数都不是乱取的（奇怪的知识增加了）。
-- [剧谈社｜翻译艺术品 | Vol.48 日本诞生：起源神话、天皇神器和中国的神秘影响力](https://podcasts.apple.com/lu/podcast/vol-48-%E6%97%A5%E6%9C%AC%E8%AF%9E%E7%94%9F-%E8%B5%B7%E6%BA%90%E7%A5%9E%E8%AF%9D-%E5%A4%A9%E7%9A%87%E7%A5%9E%E5%99%A8%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A5%9E%E7%A7%98%E5%BD%B1%E5%93%8D%E5%8A%9B/id1537284707?i=1000601909224)，非常知识向，主要观点是中国对日本影响力的鼎盛期不在唐朝，而在魏晋南北朝时期。从疏理天皇及神话的起源可以探究一二。虽说很多知识点，但是蛮有意思的。
-- [忽左忽右 Ep 228 | 历史转折中的吉米·卡特](https://podcasts.apple.com/sg/podcast/228-%E5%8E%86%E5%8F%B2%E8%BD%AC%E6%8A%98%E4%B8%AD%E7%9A%84%E5%90%89%E7%B1%B3-%E5%8D%A1%E7%89%B9/id1493503146?i=1000602617118)，很好的介绍。十分有个性的美国总统。
+- [剧谈社｜翻译艺术品 | Vol.48 日本诞生：起源神话、天皇神器和中国的神秘影响力](https://podcasts.apple.com/lu/podcast/vol-48-%E6%97%A5%E6%9C%AC%E8%AF%9E%E7%94%9F-%E8%B5%B7%E6%BA%90%E7%A5%9E%E8%AF%9D-%E5%A4%A9%E7%9A%87%E7%A5%9E%E5%99%A8%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A5%9E%E7%A7%98%E5%BD%B1%E5%93%8D%E5%8A%9B/id1537284707?i=1000601909224)，非常知识向，主要观点是中国对日本影响力的鼎盛期不在唐朝，而在魏晋南北朝时期。从疏理天皇及神话的起源可以探究一二。
+- [忽左忽右 Ep 228 | 历史转折中的吉米·卡特](https://podcasts.apple.com/sg/podcast/228-%E5%8E%86%E5%8F%B2%E8%BD%AC%E6%8A%98%E4%B8%AD%E7%9A%84%E5%90%89%E7%B1%B3-%E5%8D%A1%E7%89%B9/id1493503146?i=1000602617118)，很好的介绍，有打破很多既定认知。十分有个性的美国总统、虔诚的教徒。
 - [剧谈社｜翻译艺术品 | Vol. 27 从宇宙天极到人间秩序：三大上古符号揭秘华夏密码](https://www.xiaoyuzhoufm.com/episode/61af3e6782cdf82712002ccc)，从考古上溯源一些被化用到文化里但我们却不自知的东西，对于「天」和「无」的讲述我觉得很精彩。北天极众星环绕之所，但这个位置上并没有星，它是「无」，所以我们的文化里对非人格化的至高神、对「无」推崇备至。不过嘉宾讲的许多东西我也不知道是不是真的、有多少是自我演绎的部分，因为看之前那本『[翦商：殷周之变与华夏新生](https://book.douban.com/subject/36096304/?_dtcc=1)』，感觉商朝时候的人对世界的认知好像并不是这样。
 - [鼓腹而游 Ep 026 | 奇谭里的仁慈与黑暗](https://podcasts.apple.com/us/podcast/026-%E5%A5%87%E8%B0%AD%E9%87%8C%E7%9A%84%E4%BB%81%E6%85%88%E4%B8%8E%E9%BB%91%E6%9A%97/id1525513899?i=1000603543714)，又是一期很有意思的聊天节目，讲了些中式奇谭里的特有元素。感觉他们仨聊什么都很有意思。我听这期的时候正在坐夜间大巴，灯都熄了，有种以前围在火炉听鬼故事的新奇和愉悦感。
 - [忽左忽右 午后偏见 Ep 022｜与大头马、袁长庚聊萨拉马戈](https://podcasts.apple.com/us/podcast/%E5%8D%88%E5%90%8E%E5%81%8F%E8%A7%81022-%E4%B8%8E%E5%A4%A7%E5%A4%B4%E9%A9%AC-%E8%A2%81%E9%95%BF%E5%BA%9A%E8%81%8A%E8%90%A8%E6%8B%89%E9%A9%AC%E6%88%88/id1493503146?i=1000603570837)，萨拉马戈的书我以前好像翻开过，但是看了几页就放下了，因为觉得有些死气沉沉的。嘉宾也提到「萨拉马戈可以说是是一种“老年写作”」。这期比较标准，就是解读作家书中的一些内容。
@@ -38,7 +38,7 @@ date: 2023-03-31
 <br/>
 
 - [The End of the English Major](https://www.newyorker.com/magazine/2023/03/06/the-end-of-the-english-major)，纽约客上的一篇长文，重新探访了英语文学专业的衰落。码住慢慢看。
-- [Stable Diffusion with Brain Activity](https://sites.google.com/view/stablediffusion-with-brain/)，又一篇感觉结论很玄妙的文章，讲的大概是可以从脑内提取模糊图像的技术。不知道具体能做到什么程度……
+- [Stable Diffusion with Brain Activity](https://sites.google.com/view/stablediffusion-with-brain/)，又一篇感觉结论很玄妙的文章，讲的大概是可以从脑内提取模糊图像的技术。不知道未来具体能做到什么程度……
 - [ChatGPT Is a Blurry JPEG of the Web](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)，一篇深入浅出地介绍 ChatGPT 原理和局限的文章，我觉得写得挺好的，推荐阅读！用复印机作比，这种语言学习的 AI 就像把互联网上的内容都吃进去，以某种方式压缩，再通过提问来提取解压出这些信息，这个过程会导致一定的失真，而且在有的情况下失真会变得不可接受。最后讲到了它是否能替代写作训练，我觉得作者讲的挺好的，可以读一读。作者是基于 GPT3 写的，到我读到这篇文章时 GPT4 已经发布了，看起来这种压缩和解压的过程精确了很多。嘛，未来怎样样也不好说了。虽然说压缩和解压的过程会导致我们认为 GPT 懂得逻辑和因果，但实际上它似乎还没能提取出数学公理并通过公理演绎，所以很难说它是否真得懂逻辑。不过除此之外我觉得人的学习和机器的学习还是很像的，也是基于过往经验对新环境做出反应。只不过我们训练了真正的逻辑能力，虽然对许多人来说「逻辑能力」也是存疑的。总之希望看到更激进的进步，看看 AI 什么时候能进化到把研究工作取代了，~~那样我就可以退休了。~~
 - [《吹响吧！上低音号》系列谈 家](https://www.bilibili.com/read/cv12696353?from=articleDetail)，看到讲京吹的啪地一下就点进去了，看完觉得作者真得有心了，愿意这么细致地分析这个意向。
 - [为美好生活干杯](https://ayu.land/flow/toast)，友邻甜鱼的日记，非常可爱！
@@ -70,31 +70,30 @@ date: 2023-03-31
 
 <br/>
 
-- [【黄鸭兄】被命运捉弄也是命运的一部分](https://www.bilibili.com/video/BV1zD4y1379A/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，讲海明威的「乞力马扎罗山的雪」，不知道是不是我的错觉，感觉黄鸭兄憔悴了好多。也可能是打光的问题。
+- [【黄鸭兄】被命运捉弄也是命运的一部分](https://www.bilibili.com/video/BV1zD4y1379A/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，讲海明威的「乞力马扎罗山的雪」。不知道是不是我的错觉，感觉黄鸭兄憔悴了好多。也可能是打光的问题。
 - [科塔萨尔构建的幻想世界，为何如此令人着迷？|《美西螈》《夜，仰面朝天》](https://www.bilibili.com/video/BV188411F7m3/?spm_id_from=444.41.list.card_archive.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，这章以阿根廷的文化背景对这两篇作了一些解读。讲的蛮好的。后来我被吸引着去看原作『[游戏的终结 | Final del juego](https://book.douban.com/subject/34786083/)』了。
 - [Jascha Heifetz - Chaconne (Bach)](https://www.youtube.com/watch?v=vhOaS_Cy8_8)，巴赫的「恰空舞曲」，Heifetz 好强啊。
-- [超強神作！巴赫的「無伴奏」小提琴作品，以及巴爾托克如何致敬他](https://www.youtube.com/watch?v=Og_N9EKvQ2M)，学到了。
+- [超強神作！巴赫的「無伴奏」小提琴作品，以及巴爾托克如何致敬他](https://www.youtube.com/watch?v=Og_N9EKvQ2M)。
 - [复刻 汪曾祺 书中的「下酒菜」4道，文人也好吃](https://www.bilibili.com/video/BV1vW4y1j7KB/?spm_id_from=333.788.recommend_more_video.-1&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，想起了高中时边看汪曾祺的『[四方食事](https://book.douban.com/subject/3802538/)』边擦口水的样子，有人有心把作品复刻出来了，感动。
-- [李世民：今天只能有一个太子！《大唐创业完结篇》](https://www.bilibili.com/video/BV1P24y177zD/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)。完结撒花！不知道下个系列更什么。看了这么多动乱朝代的开国史，觉得还是唐朝的更「正常」一点。一句「太白金星现」就真得很有传奇感了。
-- [【美人谱系05】奥斯卡影后杨紫琼！她的一生，就是妈的多重宇宙](http://b23.tv/bvsjPmf)，虽然这部片我没有看过，但是每次看到这个翻译都觉得很好笑（。印象最深的还是『卧虎藏龙』里的俞秀莲了。
+- [李世民：今天只能有一个太子！《大唐创业完结篇》](https://www.bilibili.com/video/BV1P24y177zD/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)。完结撒花！不知道下个系列更什么。看了这么多动乱朝代的开国史，觉得还是唐朝的更「正常」一点。一句「太白金星现」就真得很有传奇感了，符合对传奇朝代的想象。
+- [【美人谱系05】奥斯卡影后杨紫琼！她的一生，就是妈的多重宇宙](http://b23.tv/bvsjPmf)，~~虽然这部片我没有看过，但是每次看到这个片名翻译都觉得很好笑~~。评论区里有句我觉得写得特别好：「杨紫琼的脸就是像是千万张华人女性的脸叠加拼贴在一起，一种坚韧又柔美的极具主体性的灵」。
 - [【无限流跑团】长安十二时辰 第6话|You shall not pass](https://www.bilibili.com/video/BV1FX4y1S7Bs/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，每次看到拉轰的更新我都会意识到原来已经过了这么久了啊（
-- [【北大讲座】拉丁音乐节奏特色分析，及音乐与语言跨学科研究的可能性](https://www.bilibili.com/video/BV1cx4y1T7Qs/?spm_id_from=333.999.0.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，挺有趣的音乐与文化通识课，叨叨冯的。
 - [【黄鸭兄】《冀西南林路行》到底在讲什么？](https://www.bilibili.com/video/BV1Po4y1k7mp/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)听着他的解读我又重新把这张专辑听了一遍，有了更多的理解。没想过这张专辑原来可以和 Eliot 的 The Wasteland 做对比。
 - [Bernstein, The greatest 5 min. in music education](https://www.youtube.com/watch?v=Gt2zubHcER4)，我听不懂，但是我大受震撼.jpg，以后抽个空把 Bernstein 的给年轻人的音乐课听一遍。
-- [水浒传《好汉歌》居然是学院派作品？如何用一首歌塑造有血有肉的豪迈之情？](https://www.bilibili.com/video/BV1224y1r7XT/?spm_id_from=333.999.0.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)配器和唱法上跟「滚滚长江东逝水」作了对比，蛮有意思的。
-- [A.I. Tries 20 Jobs | WIRED](https://www.youtube.com/watch?v=tTagNMmzgQo), The rise of ChatGPT and other publicly available A.I. tools has sparked numerous debates about its ability to reduce, or in some cases, completely eliminate jobs traditionally done by humans. What if we put the A.I. to the test? We asked people in many different career fields to use A.I. in an attempt for the A.I. to replicate their jobs. How close can it get?  （我复制粘贴了简介，总之看下来大部分人都不认为 AI 目前能取代他们的职业，毕竟统合信息并根据经验和情况加以利用只是许多职业工作的一小部分而已）
+- [水浒传《好汉歌》居然是学院派作品？如何用一首歌塑造有血有肉的豪迈之情？](https://www.bilibili.com/video/BV1224y1r7XT/?spm_id_from=333.999.0.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)配器和唱法上跟「滚滚长江东逝水」作了对比，体现了两部小说的根本区别，蛮有意思的。
+- [A.I. Tries 20 Jobs | WIRED](https://www.youtube.com/watch?v=tTagNMmzgQo), *The rise of ChatGPT and other publicly available A.I. tools has sparked numerous debates about its ability to reduce, or in some cases, completely eliminate jobs traditionally done by humans. What if we put the A.I. to the test? We asked people in many different career fields to use A.I. in an attempt for the A.I. to replicate their jobs. How close can it get?*  （我复制粘贴了简介，总之看下来大部分人都不认为 AI 目前能取代他们的职业，毕竟统合信息并根据经验和情况加以利用只是许多职业工作的一小部分而已）
 - [中国古典音乐欣赏—宋·杏花天影(公元前960-1279年)](http://music.163.com/album/139350220)，[杏花天影](http://music.163.com/album/136195854)，别人推荐的两张碟子，以旧谱演诗词的好像是，听了几个感觉还不错，先 mark 住。
 - [50万人被这部电影击中，《超脱》为什么致郁又迷人？](https://www.bilibili.com/video/BV1MP411f7b3/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)至今我也不太敢教差班的学生，不敢和学生有任何深入的交流，只想在业务上帮助他们……感觉自己就和里面的数学老师一样，被所有人忽视。唉。这部片当时看着真得挺难过的。切切讲得也很好。
-- [FLY ME TO THE MOON in 15 Styles](https://www.youtube.com/watch?v=fkDF9vrvxFk)，德国那个笑死……
+- [FLY ME TO THE MOON in 15 Styles](https://www.youtube.com/watch?v=fkDF9vrvxFk)，德国版本那个笑死……不知道德国为什么古典时期和现代时期的音乐差别这么……大？
 - [【 K-ON!! 】 けいおん!!　GO! GO! MANIAC (Full) 叩いてみた](https://www.youtube.com/watch?v=jDngvBMT2Zc)，据说是 K-ON 中鼓组的魔王曲，川口千里十四岁演的，为什么人家这么神仙，太带劲了，我也想学（
 - [Yoko Kanno + Seatbelts - "Tank!" (Full Performance) | Cowboy Bebop: Unlocked | Netflix Geeked](https://www.youtube.com/watch?v=GZl7N8sXyEo)，The Seatbelts x Yoko Kanno 新的录制版 www，但是感觉十六年前的这个 Live 更爽点 [The Seatbelts シートベルツ, - Tank! (live)](https://www.youtube.com/watch?v=M_25mVjKwcc)。
-- [Anime Jazz Cover | Tank! (from Cowboy Bebop) by Platina Jazz](https://www.youtube.com/watch?v=0iKpIh6xonc)，那位弹马林巴（应该是吧）的大哥看着好开心（，完全一种新的 mood，但是也很好听
+- [Anime Jazz Cover | Tank! (from Cowboy Bebop) by Platina Jazz](https://www.youtube.com/watch?v=0iKpIh6xonc)，那位弹马林巴（应该是吧）的大哥看着好开心（，完全一种新的 mood，但是也很好听。
 - [Bill Bruford - A little lesson to camera: the ‘River of Time’](https://www.youtube.com/watch?v=9sSbwhuUMJ8)，这个形容好好！打鼓敲节奏就是在 River of time 里点出一些点。
 - [King Crimson - Indiscipline / Drum Solo (The Noise - Live At Fréjus 1982)](https://www.youtube.com/watch?v=mUWxHXBWfCk)，好强啊……为什么人家敲得这么轻描淡写啊（
 - [『COLORs』／TOHO animation ミュージックフィルムズ](https://www.youtube.com/watch?v=yYAgBRO-aT8)，配乐有点微妙，但色彩真得很棒。
 - [【罗翔×刘擎】人应该在人际交往中，戴上面具吗？](https://www.bilibili.com/video/BV1YY4y1Q7Uu/?spm_id_from=333.788.recommend_more_video.-1&vd_source=cadebb52993d8ab2c0f257a19ba080e8) [【罗翔X刘擎】人应该如何平衡，真实和虚假的自我？](https://www.bilibili.com/video/BV1iY4y1Q7Rz/?spm_id_from=333.788.playrecommendByOp.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，刚发现这两位竟然凑了两期视频。我的原本观点和刘擎老师的很像。面具是社会性自我，就像皮肤一样，是我们自身的一部分。
 - [【黄鸭兄】接受现实：人就是自相矛盾的](https://www.bilibili.com/video/BV1fs4y1n7PD/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，介绍蒙田的一篇散文，主要是讲如何处理人身上的不一致性。
-- [【雀魂】新手如何快速上分，600把上魂天的真正秘诀!「玉间黑暗兵法」Ep.6](https://www.bilibili.com/video/BV1AB4y1Y79Q/?spm_id_from=333.788.recommend_more_video.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，玉间攻防战感觉挺有意思，我现在就只会算算牌效，新手村都没过。我什么时候才能上玉间（望天
+- [【雀魂】新手如何快速上分，600把上魂天的真正秘诀!「玉间黑暗兵法」Ep.6](https://www.bilibili.com/video/BV1AB4y1Y79Q/?spm_id_from=333.788.recommend_more_video.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，玉间攻防战感觉挺有意思，我现在就只会算算牌效，还没能把握牌局，新手村都没过。我什么时候才能上玉间（望天
 - [【IGN】《塞尔达传说 王国之泪》实机演示](http://b23.tv/ihPCMtQ)，为什么你们做好了还不发售（尖叫）？看到介绍脑子里就浮现出了很多奇怪的玩法，到时候要试一试（搓手手）。
 - [如何做出肉片不柴、清爽不腻、鲜香下饭的辣椒炒肉【解构家常菜】](https://www.bilibili.com/video/BV1Ps4y1U7f2/?spm_id_from=333.1007.tianma.2-2-5.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，记笔记记笔记，辣椒皮厚的辣椒水份多，果皮薄的辣椒更脆。肥肉厚切、瘦肉薄切。辣椒不用先煸炒。最后加水或者高汤可以融合味道。
 
