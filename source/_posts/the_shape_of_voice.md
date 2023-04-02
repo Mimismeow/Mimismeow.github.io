@@ -8,7 +8,7 @@ date: 2022-12-10
 
 <br/>
 
-今年《[声之形](https://movie.douban.com/subject/26264454/)》五周年。虽然已经看过两遍，但还是去电影院里看了一遍，这次又看得失了魂，现在回到家一想起一些里的一些场景心脏还是像被攥紧一样，身体还在发抖。那首主题曲 [lit](https://www.youtube.com/watch?v=S2jEBRVSo90) 真得能让我原地高潮。山田尚子，她真得，我哭死。另外 [A 叔也演绎过一版 lit](https://www.bilibili.com/video/BV1rN411Z7jc/?spm_id_from=333.999.0.0)，里面有五种变奏，也很好听。
+今年《[声之形](https://bangumi.tv/subject/117777)》五周年。虽然已经看过两遍，但还是去电影院里看了一遍，这次又看得失了魂，现在回到家一想起一些里的一些场景心脏还是像被攥紧一样，身体还在发抖。那首主题曲 [lit](https://www.youtube.com/watch?v=S2jEBRVSo90) 真得能让我原地高潮。山田尚子，她真得，我哭死。另外 [A 叔也演绎过一版 lit](https://www.bilibili.com/video/BV1rN411Z7jc/?spm_id_from=333.999.0.0)，里面有五种变奏，也很好听。
 
 <br/>
 
