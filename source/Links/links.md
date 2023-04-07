@@ -108,8 +108,6 @@ title: 链接
 
 - [Goole Art & Cultures](https://artsandculture.google.com/)，开放艺术馆。
 
-- [端阅读](https://theinitium.com/)，记录中港台在地故事。
-
 - [汉字标准格式](https://hanzi.pro/)
 
 - [The Master Class: The Art Of Storytelling, by Neil Gaiman](https://www.masterclass.com/classes/neil-gaiman-teaches-the-art-of-storytelling)，（小声：有不花钱就能看的中译：[讲故事的艺术](https://www.bilibili.com/video/BV1FR4y1M73U?p=1&vd_source=cadebb52993d8ab2c0f257a19ba080e8)）
@@ -119,8 +117,6 @@ title: 链接
 - [周华健读 Beatles](https://www.bilibili.com/video/BV1pB4y197P9/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)
 
 - 余光中的《[现代汉语的西化](https://jerkwin.github.io/2015/07/22/%E8%BD%AC-%E4%BD%99%E5%85%89%E4%B8%AD-%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E7%9A%84%E8%A5%BF%E5%8C%96/)》，Orwell 的 [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/)。触目惊心。无论是汉语还是英语，我们的语言都正在失去本身的文学性。语言是一种工具，这没错，但语言也是我们思考与表达自身、社会的方法，它不能被一些粗暴的现象所裹挟。抵制语言腐败。
-
-- [野仙子](https://read.douban.com/column/35590181/?icn=from-author-page)，高中学古诗词时很喜欢的一位现代网络诗人「夏婉墨（夏七 / 豹嘤嘤）」的集子，当时读到时惊为天人，非常非常有灵气。
 
   
 
@@ -174,10 +170,6 @@ title: 链接
 <br/>
 
 #### 特别篇：京都动画
-
-<br/>
-
-只要你也吹京阿尼（特别是京吹），那我们就是异父异母的姐妹！
 
 <br/>
 
