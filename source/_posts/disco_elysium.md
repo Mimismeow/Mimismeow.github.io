@@ -42,7 +42,7 @@ date: 2022-12-22
 
 <br/>
 
-关于她创立的人道主义、道德主义有位 up 主谈论的很好，他发了两篇：[最可笑的中间派——极乐DISCO中的意识形态批判 漠然与犬儒从何而来](https://www.bilibili.com/video/BV1Ad4y1T7yw/?spm_id_from=333.788) 以及 [极乐迪斯科——德洛丽丝时代下的道德盲视 克服隐形的意识形态从何开始？](https://www.bilibili.com/video/BV1ev4y1c77V/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)。游戏的创作者对这种思维是作如下批判的：
+关于她创立的人道主义、道德主义有位 up 主谈论的很好，他发了两篇：[最可笑的中间派——极乐DISCO中的意识形态批判 漠然与犬儒从何而来](https://www.bilibili.com/video/BV1Ad4y1T7yw/) 以及 [极乐迪斯科——德洛丽丝时代下的道德盲视 克服隐形的意识形态从何开始？](https://www.bilibili.com/video/BV1ev4y1c77V/)。游戏的创作者对这种思维是作如下批判的：
 
 <br/>
 

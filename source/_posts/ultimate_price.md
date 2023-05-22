@@ -10,7 +10,7 @@ date: 2022-12-10
 
 <br/>
 
-另外 A 叔演奏的[版本](https://www.bilibili.com/video/BV1oN4y1T7G7/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)也非常非常动人。有点难过的。一想到京阿尼的作品就想到那场火灾。唉。这里有一个[三周年追悼式](https://www.bilibili.com/video/BV1ZN4y1T7SB/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，愿逝者安息。
+另外 A 叔演奏的[版本](https://www.bilibili.com/video/BV1oN4y1T7G7/)也非常非常动人。有点难过的。一想到京阿尼的作品就想到那场火灾。唉。这里有一个[三周年追悼式](https://www.bilibili.com/video/BV1ZN4y1T7SB/)，愿逝者安息。
 
 <br/>
 

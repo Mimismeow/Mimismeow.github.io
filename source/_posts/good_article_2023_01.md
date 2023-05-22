@@ -150,7 +150,7 @@ date: 2023-01-30
 
 <br/>
 
-- [阿凡达真的是纯音译吗](https://www.bilibili.com/video/BV1TM41117Jk/?spm_id_from=444.41.list.card_archive.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，lingucor 的语言学视频，答案是不只是音译。
+- [阿凡达真的是纯音译吗](https://www.bilibili.com/video/BV1TM41117Jk/)，lingucor 的语言学视频，答案是不只是音译。
 
 - [The Influences of Naoko Yamada](https://www.youtube.com/watch?app=desktop&v=K_c1gQw6S6Q)，影响山田尚子的一些电影家。感觉被安利到了好些电影家。Yasujiro Ozu (the quietness)（当然他的作品也看过许多了，感觉日本的电影人和动画导演或多或少都受到小津安二郎的影响吧）, Sofia Coppola (the implusive), SerGei ParaJanov (the visual), 杨德昌 (the sense), Lucile Hadzihaliloic (the feminine)，一键加入观影列表
 
@@ -160,15 +160,15 @@ date: 2023-01-30
 
 - [Tchaikovsky "June" Barcarolle](https://www.youtube.com/watch?v=KMb_TPrqMZI)，虽然以前也经常听六月船歌，但最近多了几分感触。有次我去湖边吹着湖风、看着芦苇，歌单里随机到了这首曲子，眼前的景色成了历史的乡愁，现在的一切都是易逝的。
 
-- [二〇二〇·中國裝束復原秀現場視頻](https://www.bilibili.com/video/BV13J4117752/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，这个好棒。以前对服装特别上心，还买了沈从文的《[中国古代服饰研究](https://book.douban.com/subject/1315258/)》，但是看再多文字和图片都不如实际看一场服装秀。
+- [二〇二〇·中國裝束復原秀現場視頻](https://www.bilibili.com/video/BV13J4117752/)，这个好棒。以前对服装特别上心，还买了沈从文的《[中国古代服饰研究](https://book.douban.com/subject/1315258/)》，但是看再多文字和图片都不如实际看一场服装秀。
 
 - [The Tau Manifesto talk (short version)](https://www.youtube.com/watch?app=desktop&v=2hhjsSN-AiU) 介绍为什么 \tau = 2 \pi 是比 \pi 更加有用的常数，听了觉得挺有道理的。
 
-- [一骑红尘妃子笑，『有』 人知是荔枝来｜《长安的荔枝》](https://www.bilibili.com/video/BV1q14y1u7zM/?vd_source=cadebb52993d8ab2c0f257a19ba080e8) up 好可爱，而且讲故事的能力好棒。加入书单。
+- [一骑红尘妃子笑，『有』 人知是荔枝来｜《长安的荔枝》](https://www.bilibili.com/video/BV1q14y1u7zM/) up 好可爱，而且讲故事的能力好棒。加入书单。
 
-- [如何从一位女工的口述史，展现阿根廷的关键十年？ |《堂娜玛利亚的故事》](https://www.bilibili.com/video/BV1xM411m71L/?spm_id_from=333.999.0.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)讲述也是表演（并非贬义），我们通过讲述确立自身。很有趣的题目。
+- [如何从一位女工的口述史，展现阿根廷的关键十年？ |《堂娜玛利亚的故事》](https://www.bilibili.com/video/BV1xM411m71L/)讲述也是表演（并非贬义），我们通过讲述确立自身。很有趣的题目。
 
-- [坦然、接地气、能与博尔赫斯比肩，这是怎样“了不起的作家”？](https://www.bilibili.com/video/BV1Cv4y1C7cR/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)魏然老师终于开新坑了，感动，这个新系列讲科塔萨尔。
+- [坦然、接地气、能与博尔赫斯比肩，这是怎样“了不起的作家”？](https://www.bilibili.com/video/BV1Cv4y1C7cR/)魏然老师终于开新坑了，感动，这个新系列讲科塔萨尔。
 
 - [峰哥侯翠翠：一场双向奔赴的伪下沉表演【解构B站】](https://www.bilibili.com/video/BV1RY4y1d7L6/)当代四体不勤五谷不分的网络学生左派现状。
 

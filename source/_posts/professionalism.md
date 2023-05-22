@@ -44,6 +44,6 @@ date: 2022-12-10
 
 <br/>
 
-推荐一个系列采访，NHK 的 行家本色，[b 站上有熟肉](https://www.bilibili.com/video/BV13Y411j7qN/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，讲了各行各业的翘楚各自的职业精神。可以从中学习并且汲取到力量。
+推荐一个系列采访，NHK 的 行家本色，[b 站上有熟肉](https://www.bilibili.com/video/BV13Y411j7qN/)，讲了各行各业的翘楚各自的职业精神。可以从中学习并且汲取到力量。
 
 <br/>

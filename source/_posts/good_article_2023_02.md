@@ -42,68 +42,68 @@ date: 2023-03-01
 
 <br/>
 
-- [乱世腾龙、再造河山，土耳其国父：凯末尔【历史调研室37】](https://www.bilibili.com/video/BV18d4y1J7W3/?spm_id_from=333.999.0.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)一如既往地有煽动性。不过他的视频每期都看下来发现这些堪称大人物的人的历史经历、还有行事风格都有点相像。「穷且益坚，不坠青云之志」，说得就是这样了。
+- [乱世腾龙、再造河山，土耳其国父：凯末尔【历史调研室37】](https://www.bilibili.com/video/BV18d4y1J7W3/)一如既往地有煽动性。不过他的视频每期都看下来发现这些堪称大人物的人的历史经历、还有行事风格都有点相像。「穷且益坚，不坠青云之志」，说得就是这样了。
 - [WHAT KALIMBA TO BUY? A Kalimba Buying Guide for Beginners | Best Kalimba Brands](https://www.youtube.com/watch?v=teFmJaZGl5M)，以及 [COMPARISON Kalimba  |   Gecko - Ling Ting - HLURU - April Yang -VBH | Hollow and Flat](https://www.youtube.com/watch?v=XtbLTG6TeAo)，最近想玩 Kalimba，看了这两只视频，介绍得不错的！最后买了 LingTing 的 K17P，然后发现这好像是中国牌子。
-- [【塞尔达传说】剩不到100天！回顾《旷野之息(BotW)》10大最具影响力程错](https://www.bilibili.com/video/BV1rA411B7qh/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，有的实在是太邪门了，不禁怀疑玩家到底是怎么发现这些的。
-- [【立直麻将】一条视频告诉你什么叫番符数？](https://www.bilibili.com/video/BV1yT411G7L1/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)线下面麻后发现自己还不会算符，都是交给电脑算的，现在有必要学了……
+- [【塞尔达传说】剩不到100天！回顾《旷野之息(BotW)》10大最具影响力程错](https://www.bilibili.com/video/BV1rA411B7qh/)，有的实在是太邪门了，不禁怀疑玩家到底是怎么发现这些的。
+- [【立直麻将】一条视频告诉你什么叫番符数？](https://www.bilibili.com/video/BV1yT411G7L1/)线下面麻后发现自己还不会算符，都是交给电脑算的，现在有必要学了……
 - [[Playlist] The Contemporary Music and Jazz Curated by Ryuichi Sakamoto for His Favorite Restaurant](https://www.youtube.com/watch?v=D9CvD3IHtdY)，坂本龙一的爵士歌单。顺带推荐一下这位专门做爵士集合的 YouTuber: [JAZZ IS EVERYWHERE](https://www.youtube.com/@jazziseverywhere).
-- [【法国战役·08】法德停战协定＆弩炮计划＆马奇诺防线，有多少被遗忘的历史？](https://www.bilibili.com/video/BV1gj411T7HA/?spm_id_from=444.41.list.card_archive.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)这位 up 做的战争史也很不错，很详尽，关键是声音好听。
-- [【黄鸭兄】傲慢是精英的耻辱，谦虚是精英的责任](https://www.bilibili.com/video/BV1R34y187ag/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，拆书视频，讲桑德尔的《[精英的傲慢](https://book.douban.com/subject/35586814/)》。里面提到，在现代社会里，成绩未必公平，学历是唯一合法霸凌他人的手段。成绩优秀者要时刻警惕，因此变得傲慢是羞耻的；成绩不优秀者也要注意到，尊严来自于有意义的工作，成功是偶然的，但尊严是可以通过自己的努力决定的。
-- [博尔赫斯都无法用语言概括的作品，有多精彩？](https://www.bilibili.com/video/BV13A411m75K/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)魏然老师更新周期好长（希望能听到更多关于科塔萨尔的内容。
+- [【法国战役·08】法德停战协定＆弩炮计划＆马奇诺防线，有多少被遗忘的历史？](https://www.bilibili.com/video/BV1gj411T7HA/)这位 up 做的战争史也很不错，很详尽，关键是声音好听。
+- [【黄鸭兄】傲慢是精英的耻辱，谦虚是精英的责任](https://www.bilibili.com/video/BV1R34y187ag/)，拆书视频，讲桑德尔的《[精英的傲慢](https://book.douban.com/subject/35586814/)》。里面提到，在现代社会里，成绩未必公平，学历是唯一合法霸凌他人的手段。成绩优秀者要时刻警惕，因此变得傲慢是羞耻的；成绩不优秀者也要注意到，尊严来自于有意义的工作，成功是偶然的，但尊严是可以通过自己的努力决定的。
+- [博尔赫斯都无法用语言概括的作品，有多精彩？](https://www.bilibili.com/video/BV13A411m75K/)魏然老师更新周期好长（希望能听到更多关于科塔萨尔的内容。
 - [但是喜剧的作用也就到这儿了，只不过是在这十几分钟内给大家制造一个幻觉 | 六兽 一席第891位讲者](https://www.bilibili.com/video/BV1pB4y1m7B2/)，他讲了日本故事《忠臣藏》来回应什么是喜剧：一位藩主受到不公审判而切腹，他的四十七位武士冒死报仇。许多改编都在歌颂这种忠义的武士道精神，但是落语的改编写的是当时城里总共有三百多个人，也就是说两百六十多人跑了。喜剧讲的就是这两百六十多个人。
 - [讲唔完的故事 | 番茄也要雨打才漂亮结实，一世人，你想怎么过就怎么过罢 | 勾食 一席第896位讲者](https://www.bilibili.com/video/BV19Y411P7at/)，不知道为什么这个漫画家讲起故事来很有李安、候孝贤他们的感觉。
-- [极乐迪斯科×小径分叉的花园：文学致敬背后暗藏的爆炸世界设定](https://www.bilibili.com/video/BV1zX4y1X7iU/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，瞳孔震动，玩的时候完全没发现，但听的时候被折服了。游戏设计实在精妙。
-- [我最爱的吉卜力音乐, 不是久石让丨听到涛声音乐解析丨永田茂丨HOPICO](https://www.bilibili.com/video/BV14T411C7yM/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，啊，竟然会有 up 主介绍「[听到涛声 海がきこえる](https://movie.douban.com/subject/1418640/)」，这部的音乐确实也给我留下了很深的印象。Hopico 的文案也越写越好了，不是从专业的音乐人的角度解答，而是从普通听众的感性的角度来解答。我很喜欢这样的讲述方式。
-- [厨师长一镜分享“手撕包菜”的门门道道，收藏并学习起来](https://www.bilibili.com/video/BV1HD4y1A7ke/?spm_id_from=333.1007.tianma.1-3-3.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，经常做的菜，我缺的是手艺吗！我缺的是灶啊！看完王刚老师的实际演示我觉得在家里是永远做不出这道菜了。
-- [如何煮出软糯弹牙、香甜油亮的大米饭｜袁隆平院士纪念特辑](https://www.bilibili.com/video/BV1r34y1V76R/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，最后的很有实操性。学到了定额蒸发损失的水量那部分。简单来说，淘米三到五遍（不要用水直接冲米），中途用手轻轻搓米。粳米加等体积的水，籼米加一点三倍体积的水，再加一百二十毫升的用蒸发水量，浸泡三十分钟，可以加一克盐两克糖五毫升油，蒸熟后焖煮半小时（先焖十五分钟、划散、再焖）。
-- [如何做出鲜香浓郁、挂满汤汁的番茄炒鸡蛋【解构家常菜】](https://www.bilibili.com/video/BV1gY411C7BY/?spm_id_from=333.999.0.0)打蛋（在保质期内的鸡蛋新鲜程度与品质对出品没有太大影响），四个蛋两克盐四克白醋，高油温（二百四十度）、多油，炒散鸡蛋。取番茄罐头、番茄膏，炒，加入番茄、盐、糖，最后加鸡蛋撒葱花。西红柿的风味主要不来自于生食番茄，而来自番茄罐头和番茄膏。番茄酱有太多额外添加成分，不推荐。怪不得之前看视频许多厨师都会补番茄膏。所以生食番茄只是让它卖相更番茄一点（
-- [【刘擎】消费主义不是洪水猛兽，马克思也不是反消费主义斗士](https://www.bilibili.com/video/BV1fX4y1Q7rH/?spm_id_from=333.337.search-card.all.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，介绍了一种不太主流的马克思理论对消费主义的看法。
+- [极乐迪斯科×小径分叉的花园：文学致敬背后暗藏的爆炸世界设定](https://www.bilibili.com/video/BV1zX4y1X7iU/)，瞳孔震动，玩的时候完全没发现，但听的时候被折服了。游戏设计实在精妙。
+- [我最爱的吉卜力音乐, 不是久石让丨听到涛声音乐解析丨永田茂丨HOPICO](https://www.bilibili.com/video/BV14T411C7yM/)，啊，竟然会有 up 主介绍「[听到涛声 海がきこえる](https://movie.douban.com/subject/1418640/)」，这部的音乐确实也给我留下了很深的印象。Hopico 的文案也越写越好了，不是从专业的音乐人的角度解答，而是从普通听众的感性的角度来解答。我很喜欢这样的讲述方式。
+- [厨师长一镜分享“手撕包菜”的门门道道，收藏并学习起来](https://www.bilibili.com/video/BV1HD4y1A7ke/)，经常做的菜，我缺的是手艺吗！我缺的是灶啊！看完王刚老师的实际演示我觉得在家里是永远做不出这道菜了。
+- [如何煮出软糯弹牙、香甜油亮的大米饭｜袁隆平院士纪念特辑](https://www.bilibili.com/video/BV1r34y1V76R/)，最后的很有实操性。学到了定额蒸发损失的水量那部分。简单来说，淘米三到五遍（不要用水直接冲米），中途用手轻轻搓米。粳米加等体积的水，籼米加一点三倍体积的水，再加一百二十毫升的用蒸发水量，浸泡三十分钟，可以加一克盐两克糖五毫升油，蒸熟后焖煮半小时（先焖十五分钟、划散、再焖）。
+- [如何做出鲜香浓郁、挂满汤汁的番茄炒鸡蛋【解构家常菜】](https://www.bilibili.com/video/BV1gY411C7BY/)打蛋（在保质期内的鸡蛋新鲜程度与品质对出品没有太大影响），四个蛋两克盐四克白醋，高油温（二百四十度）、多油，炒散鸡蛋。取番茄罐头、番茄膏，炒，加入番茄、盐、糖，最后加鸡蛋撒葱花。西红柿的风味主要不来自于生食番茄，而来自番茄罐头和番茄膏。番茄酱有太多额外添加成分，不推荐。怪不得之前看视频许多厨师都会补番茄膏。所以生食番茄只是让它卖相更番茄一点（
+- [【刘擎】消费主义不是洪水猛兽，马克思也不是反消费主义斗士](https://www.bilibili.com/video/BV1fX4y1Q7rH/)，介绍了一种不太主流的马克思理论对消费主义的看法。
 
 <br/>
 
-偶然关注到了一位讲电影的 b 站 up 主[切片计划](https://space.bilibili.com/624052719/?spm_id_from=333.999.0.0)，应该是电影科班的学生，觉得讲得挺好的，点到为止，在吃饭的时候断断续续看了许多，对于我这样刚开始对电影感兴趣的人而言是一个非常好的推荐频道，可以扩充片单：
+偶然关注到了一位讲电影的 b 站 up 主[切片计划](https://space.bilibili.com/624052719/)，应该是电影科班的学生，觉得讲得挺好的，点到为止，在吃饭的时候断断续续看了许多，对于我这样刚开始对电影感兴趣的人而言是一个非常好的推荐频道，可以扩充片单：
 
 <br/>
 
-- [从专业角度看，郭敬明是个合格的导演吗？《小时代》8分钟伪长镜头深入解析](https://www.bilibili.com/video/BV1QK4y1Z7qk/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，讲长镜头的，收的片单：[尤里西斯的凝视 Το βλέμμα του Οδυσσέα](https://movie.douban.com/subject/1294573/)，[路边野餐](https://movie.douban.com/subject/26337866/)，[人类之子 Children of Men](https://movie.douban.com/subject/1478064/)，[爱乐之城 La La Land](https://movie.douban.com/subject/25934014/)
+- [从专业角度看，郭敬明是个合格的导演吗？《小时代》8分钟伪长镜头深入解析](https://www.bilibili.com/video/BV1QK4y1Z7qk/)，讲长镜头的，收的片单：[尤里西斯的凝视 Το βλέμμα του Οδυσσέα](https://movie.douban.com/subject/1294573/)，[路边野餐](https://movie.douban.com/subject/26337866/)，[人类之子 Children of Men](https://movie.douban.com/subject/1478064/)，[爱乐之城 La La Land](https://movie.douban.com/subject/25934014/)
 
-- [野生影迷观影指南：为什么都说五条人是知识分子？](https://www.bilibili.com/video/BV1uf4y1C7Ku/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)收的片单：[天注定](https://movie.douban.com/subject/21941283/)，[大佛普拉斯](https://movie.douban.com/subject/27059130/)，[恋恋风尘](https://movie.douban.com/subject/1292330/)，[童年往事](https://movie.douban.com/subject/1300572/)，[黑猫白猫 Црна мачка, бели мачор](https://movie.douban.com/subject/1293236/)，[地下 Подземље](https://movie.douban.com/subject/1292206/)，[没有过去的男人 Mies vailla menneisyyttä ](https://movie.douban.com/subject/1307790/)，[薄暮之光 Laitakaupungin valot](https://movie.douban.com/subject/1472907/)，[列宁格勒牛仔征美记 Leningrad Cowboys Go America](https://movie.douban.com/subject/1316560/)，[枪火](https://movie.douban.com/subject/1300741/)，[切腹](https://movie.douban.com/subject/1304920/)，[关于我母亲的一切 Todo sobre mi madre](https://movie.douban.com/subject/1291937/)。感觉有许多吸引我的片段，让我很想把原片看掉。
+- [野生影迷观影指南：为什么都说五条人是知识分子？](https://www.bilibili.com/video/BV1uf4y1C7Ku/)收的片单：[天注定](https://movie.douban.com/subject/21941283/)，[大佛普拉斯](https://movie.douban.com/subject/27059130/)，[恋恋风尘](https://movie.douban.com/subject/1292330/)，[童年往事](https://movie.douban.com/subject/1300572/)，[黑猫白猫 Црна мачка, бели мачор](https://movie.douban.com/subject/1293236/)，[地下 Подземље](https://movie.douban.com/subject/1292206/)，[没有过去的男人 Mies vailla menneisyyttä ](https://movie.douban.com/subject/1307790/)，[薄暮之光 Laitakaupungin valot](https://movie.douban.com/subject/1472907/)，[列宁格勒牛仔征美记 Leningrad Cowboys Go America](https://movie.douban.com/subject/1316560/)，[枪火](https://movie.douban.com/subject/1300741/)，[切腹](https://movie.douban.com/subject/1304920/)，[关于我母亲的一切 Todo sobre mi madre](https://movie.douban.com/subject/1291937/)。感觉有许多吸引我的片段，让我很想把原片看掉。
 
-- [《情书》，并不是一个简单的纯爱故事](https://www.bilibili.com/video/BV1aK4y1G7Qc/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，讲得很细，讲到了岩井俊二的「青春残酷物语」主题。想起以前雪天走在松软而洁白的土地里，想到『情书』开头的那段，女主人公躺在雪地上屏息。洁白、虚无、死亡般的雪。很美。
+- [《情书》，并不是一个简单的纯爱故事](https://www.bilibili.com/video/BV1aK4y1G7Qc/)，讲得很细，讲到了岩井俊二的「青春残酷物语」主题。想起以前雪天走在松软而洁白的土地里，想到『情书』开头的那段，女主人公躺在雪地上屏息。洁白、虚无、死亡般的雪。很美。
 
-- [【文化波谱01】流水的赛博朋克，铁打的东方元素](https://www.bilibili.com/video/BV1bV411x7Mm/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，很神奇的是，其实我以前是蛮喜欢赛博朋克美学的，但是现在见到这种场景就觉得压抑。它本来就是让人压抑的，这没错，但是在我以前的理解里赛博朋克既剥夺了作为个体自由的同时又赋予了去个人化的自由，而城市、灯光、雨夜作为景观有种极为荒诞而炫目的美感。但是现在再看，这种拥挤造成的窒息已经占据上风。如果要我来拍的话，我最想拍的画面是在赛博世界生活了一辈子的人走出九龙城寨抬头望向空旷世界的那一刻，从遍地霓虹的夜晚走到飘荡的清冽空气的旷野的那一刻。
+- [【文化波谱01】流水的赛博朋克，铁打的东方元素](https://www.bilibili.com/video/BV1bV411x7Mm/)，很神奇的是，其实我以前是蛮喜欢赛博朋克美学的，但是现在见到这种场景就觉得压抑。它本来就是让人压抑的，这没错，但是在我以前的理解里赛博朋克既剥夺了作为个体自由的同时又赋予了去个人化的自由，而城市、灯光、雨夜作为景观有种极为荒诞而炫目的美感。但是现在再看，这种拥挤造成的窒息已经占据上风。如果要我来拍的话，我最想拍的画面是在赛博世界生活了一辈子的人走出九龙城寨抬头望向空旷世界的那一刻，从遍地霓虹的夜晚走到飘荡的清冽空气的旷野的那一刻。
 
-- [「吹捧大师」李安：我看不懂，但我大受震撼【不正经导演系列01】](https://www.bilibili.com/video/BV1gh411r7Nz/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，李安和伯格曼相见的那两张照片真得好感人。拍了一辈子父权压迫的李安见到了自己的精神父亲。被安利了伯格曼 Ingmar Bergman 的[一些电影](https://www.imdb.com/name/nm0000005/publicity/?ref_=nm_pdt_pub#filmBio)。听说伯格曼很推崇老塔来着。话说李安的气质真得挺像读过的一些写长篇的小说家，谦逊、努力，有些细腻是他们独一份的。
+- [「吹捧大师」李安：我看不懂，但我大受震撼【不正经导演系列01】](https://www.bilibili.com/video/BV1gh411r7Nz/)，李安和伯格曼相见的那两张照片真得好感人。拍了一辈子父权压迫的李安见到了自己的精神父亲。被安利了伯格曼 Ingmar Bergman 的[一些电影](https://www.imdb.com/name/nm0000005/publicity/?ref_=nm_pdt_pub#filmBio)。听说伯格曼很推崇老塔来着。话说李安的气质真得挺像读过的一些写长篇的小说家，谦逊、努力，有些细腻是他们独一份的。
 
-- [「毒舌之王」北野武：一个嘲笑国王没穿新衣的小孩【不正经导演系列02】](https://www.bilibili.com/video/BV1T44y187Nn/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，之前只看过北野武的「[菊次郎的夏天](https://movie.douban.com/subject/1293359/)」，没想到这位导演为人和作品都这么……这么……神奇？突然就感兴趣了，mark，呵，男人，父亲。
+- [「毒舌之王」北野武：一个嘲笑国王没穿新衣的小孩【不正经导演系列02】](https://www.bilibili.com/video/BV1T44y187Nn/)，之前只看过北野武的「[菊次郎的夏天](https://movie.douban.com/subject/1293359/)」，没想到这位导演为人和作品都这么……这么……神奇？突然就感兴趣了，mark，呵，男人，父亲。
 
-- [【美人谱系01】女王巩俐的红毯史，就是中国电影的沉浮史（上）](https://www.bilibili.com/video/BV1UT4y1o75h/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，[【美人谱系01】女王巩俐的红毯史，就是中国电影的沉浮史（下）](https://www.bilibili.com/video/BV1xQ4y1S7nH/?spm_id_from=333.999.0.0&vd_source=cadebb52993d8ab2c0f257a19ba080e8)，收的片单：[红高粱](https://movie.douban.com/subject/1306505/)，[秋菊打官司](https://movie.douban.com/subject/1300108/)，[活着](https://movie.douban.com/subject/1292365/)。其实一直没太 get 到巩俐来着，但是她这么一讲确实。
+- [【美人谱系01】女王巩俐的红毯史，就是中国电影的沉浮史（上）](https://www.bilibili.com/video/BV1UT4y1o75h/)，[【美人谱系01】女王巩俐的红毯史，就是中国电影的沉浮史（下）](https://www.bilibili.com/video/BV1xQ4y1S7nH/)，收的片单：[红高粱](https://movie.douban.com/subject/1306505/)，[秋菊打官司](https://movie.douban.com/subject/1300108/)，[活着](https://movie.douban.com/subject/1292365/)。其实一直没太 get 到巩俐来着，但是她这么一讲确实。
 
-- [顶级导演内卷大赏：这才是真正的神仙打架！](https://www.bilibili.com/video/BV1RL41177iY/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)收的片单：[绿洲 오아시스](https://movie.douban.com/subject/1299582/)，[燃烧 버닝](https://movie.douban.com/subject/26842702/)（被案例了导演李沧冬的两部作品），[坏血 Mauvais sang](https://movie.douban.com/subject/1301678/)（就突然对这个片的表现形式很好奇），当然最后还有著名的老塔的 [伊万的童年 Иваново детство](https://movie.douban.com/subject/1294421/)。up 讲 [穆赫兰道 Mulholland Dr.](https://movie.douban.com/subject/1292217/) 的时候我有点想起自己看这部片的感觉，荒诞、怪异、刚梦醒时回味梦境而感受到的异质感。
+- [顶级导演内卷大赏：这才是真正的神仙打架！](https://www.bilibili.com/video/BV1RL41177iY/)收的片单：[绿洲 오아시스](https://movie.douban.com/subject/1299582/)，[燃烧 버닝](https://movie.douban.com/subject/26842702/)（被案例了导演李沧冬的两部作品），[坏血 Mauvais sang](https://movie.douban.com/subject/1301678/)（就突然对这个片的表现形式很好奇），当然最后还有著名的老塔的 [伊万的童年 Иваново детство](https://movie.douban.com/subject/1294421/)。up 讲 [穆赫兰道 Mulholland Dr.](https://movie.douban.com/subject/1292217/) 的时候我有点想起自己看这部片的感觉，荒诞、怪异、刚梦醒时回味梦境而感受到的异质感。
 
-- [【美人谱系03】钝美人汤唯，究竟有没有演技？](https://www.bilibili.com/video/BV1WF411G7Kn/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)以及[许鞍华为什么调教不好汤唯？](https://www.bilibili.com/video/BV1QG4y1L77y/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)讲了导演与演员的关系，以及汤唯的特质。在我心里汤唯就是王佳芝，王佳芝就是汤唯（[色，戒](https://movie.douban.com/subject/1828115/)），唉，这从侧面能看出来李安导演究竟有多厉害。导演来挖掘演员的本真，这听起来真得是很浪漫又很露骨的事情，做演员和导演都好难。作为演员，要完全成为另外一个人，这得有多么坦诚、还要有技术、以及实力。而作为导演，要把全片都处在自己的绝对掌控之下，要突破这么多人的舒适圈和心理防线，我想想就觉得我自己完全做不到这点。
+- [【美人谱系03】钝美人汤唯，究竟有没有演技？](https://www.bilibili.com/video/BV1WF411G7Kn/)以及[许鞍华为什么调教不好汤唯？](https://www.bilibili.com/video/BV1QG4y1L77y/)讲了导演与演员的关系，以及汤唯的特质。在我心里汤唯就是王佳芝，王佳芝就是汤唯（[色，戒](https://movie.douban.com/subject/1828115/)），唉，这从侧面能看出来李安导演究竟有多厉害。导演来挖掘演员的本真，这听起来真得是很浪漫又很露骨的事情，做演员和导演都好难。作为演员，要完全成为另外一个人，这得有多么坦诚、还要有技术、以及实力。而作为导演，要把全片都处在自己的绝对掌控之下，要突破这么多人的舒适圈和心理防线，我想想就觉得我自己完全做不到这点。
 
-- [躁动，快乐，反叛！朴树想去往的2000年究竟是什么样的？【重返千禧年01】](https://www.bilibili.com/video/BV13B4y1C71o/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)讲了朴树的特质，有的时候我觉得，像他这么纯粹的人敢站在聚光灯下的人是很神奇的事。他在每个世代都受欢迎，正因为他满足了许多观众的期待又无法做到的某种性格。而怀抱这样性格的人能持续地曝光、真诚地面对所有人，这真得需要十足的勇气。我觉得在如此广泛的观众中暴露自己比赤身裸体还令人羞耻。在这点上朴树真得很特别。他身上充满了邻家「偶像」的气质，另人想要追随、也想要去安慰。
+- [躁动，快乐，反叛！朴树想去往的2000年究竟是什么样的？【重返千禧年01】](https://www.bilibili.com/video/BV13B4y1C71o/)讲了朴树的特质，有的时候我觉得，像他这么纯粹的人敢站在聚光灯下的人是很神奇的事。他在每个世代都受欢迎，正因为他满足了许多观众的期待又无法做到的某种性格。而怀抱这样性格的人能持续地曝光、真诚地面对所有人，这真得需要十足的勇气。我觉得在如此广泛的观众中暴露自己比赤身裸体还令人羞耻。在这点上朴树真得很特别。他身上充满了邻家「偶像」的气质，另人想要追随、也想要去安慰。
 
-- [都在夸《隐入尘烟》，但我想来认真聊一聊](https://www.bilibili.com/video/BV1Et4y1J7Ha/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，被安利了这部[隐入尘烟](https://movie.douban.com/subject/35131346/)，同时也看到了不同导演面对同一题材时会怎么去表现，挺有教育意义的。评论区有人不接受批评，认为真实的生活摆上荧幕就是如此，这些批评都是属于「精英」的傲慢。我想这些人混淆了「真实」与其「表现形式」的区别。「真实」毋庸置疑，但「表现形式」对于文艺作品而言其地位或许也不输内容本身。不同的表述会造就不同的理解与不同的理解深度。
+- [都在夸《隐入尘烟》，但我想来认真聊一聊](https://www.bilibili.com/video/BV1Et4y1J7Ha/)，被安利了这部[隐入尘烟](https://movie.douban.com/subject/35131346/)，同时也看到了不同导演面对同一题材时会怎么去表现，挺有教育意义的。评论区有人不接受批评，认为真实的生活摆上荧幕就是如此，这些批评都是属于「精英」的傲慢。我想这些人混淆了「真实」与其「表现形式」的区别。「真实」毋庸置疑，但「表现形式」对于文艺作品而言其地位或许也不输内容本身。不同的表述会造就不同的理解与不同的理解深度。
 
-- [华语电影最高光时刻！《花样年华》和《一一》是怎样征服戛纳的？【重返千禧年02上】](https://www.bilibili.com/video/BV1Fe4y1p7Ld/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)看到杨德昌就点进来了。
+- [华语电影最高光时刻！《花样年华》和《一一》是怎样征服戛纳的？【重返千禧年02上】](https://www.bilibili.com/video/BV1Fe4y1p7Ld/)看到杨德昌就点进来了。
 
-- [拖延界的卷王，顶级PUA选手！王家卫究竟为啥极限拉扯？【不正经导演03】](https://www.bilibili.com/video/BV1BG4y1p7py/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)~~王导戴墨镜是不是怕被曾经剧组的人认出来打啊~~，听到不少幕后故事，第一次知道导演剪辑版也会有这么多版……
+- [拖延界的卷王，顶级PUA选手！王家卫究竟为啥极限拉扯？【不正经导演03】](https://www.bilibili.com/video/BV1BG4y1p7py/)~~王导戴墨镜是不是怕被曾经剧组的人认出来打啊~~，听到不少幕后故事，第一次知道导演剪辑版也会有这么多版……
 
-- [二十年了，怎么还没有武侠电影能超越《卧虎藏龙》？](https://www.bilibili.com/video/BV1784y1q7Dx/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)看完电影后看了这拉片分析，感觉很多地方对镜头语言解释得很到位。有些我没想到的在这里学到了。（影评之类的在以后的文章里会发）
+- [二十年了，怎么还没有武侠电影能超越《卧虎藏龙》？](https://www.bilibili.com/video/BV1784y1q7Dx/)看完电影后看了这拉片分析，感觉很多地方对镜头语言解释得很到位。有些我没想到的在这里学到了。（影评之类的在以后的文章里会发）
 
-- [十年过去，我才真正看懂了《一代宗师》！](https://www.bilibili.com/video/BV1vP4y197rT/?vd_source=cadebb52993d8ab2c0f257a19ba080e8) 同样的拉片分析，很精彩，看了十分钟后我就去重刷原片了（上次看的太早已经完全忘了），刷完后继续看。 越看越喜欢宫二这个角色。这个拉片还被章子怡在微薄上转发了。
+- [十年过去，我才真正看懂了《一代宗师》！](https://www.bilibili.com/video/BV1vP4y197rT/) 同样的拉片分析，很精彩，看了十分钟后我就去重刷原片了（上次看的太早已经完全忘了），刷完后继续看。 越看越喜欢宫二这个角色。这个拉片还被章子怡在微薄上转发了。
 
-- [看了3000部电影后，让我反复爱上的“电影时刻”！ ](https://www.bilibili.com/video/BV1kD4y177Ua/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)收的片单：[小武](https://movie.douban.com/subject/1291851/)，[三峡好人](https://movie.douban.com/subject/1872133/)，[特写 کلوزآپ](https://movie.douban.com/subject/1303521/)，[绿光 Le rayon vert](https://movie.douban.com/subject/1294039/)，[玩乐时间 Play Time](https://movie.douban.com/subject/1303543/)，[不良教育 La mala educación](https://movie.douban.com/subject/1291878/)，[新桥恋人 Les amants du Pont-Neuf](https://movie.douban.com/subject/1291559/)，[末路狂花 Thelma & Louise](https://movie.douban.com/subject/1291992/)，[出租车司机 Taxi Driver](https://movie.douban.com/subject/1292222/)，搓手手。看的时候有感受到电影的独特魅力，造梦机器、雕刻时光。「特写」的结尾真得好感人。
+- [看了3000部电影后，让我反复爱上的“电影时刻”！ ](https://www.bilibili.com/video/BV1kD4y177Ua/)收的片单：[小武](https://movie.douban.com/subject/1291851/)，[三峡好人](https://movie.douban.com/subject/1872133/)，[特写 کلوزآپ](https://movie.douban.com/subject/1303521/)，[绿光 Le rayon vert](https://movie.douban.com/subject/1294039/)，[玩乐时间 Play Time](https://movie.douban.com/subject/1303543/)，[不良教育 La mala educación](https://movie.douban.com/subject/1291878/)，[新桥恋人 Les amants du Pont-Neuf](https://movie.douban.com/subject/1291559/)，[末路狂花 Thelma & Louise](https://movie.douban.com/subject/1291992/)，[出租车司机 Taxi Driver](https://movie.douban.com/subject/1292222/)，搓手手。看的时候有感受到电影的独特魅力，造梦机器、雕刻时光。「特写」的结尾真得好感人。
 
-- [冷门，但口碑爆炸！按头推荐2022年十部小众佳片](https://www.bilibili.com/video/BV1zM411b7Nr/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，虽然但是，有些片热门到都上映好久了还没下映……收了 [火山挚恋 Fire of Love](https://movie.douban.com/subject/35694766/) 和 [椒麻堂会](https://movie.douban.com/subject/27305997/) 两部。
+- [冷门，但口碑爆炸！按头推荐2022年十部小众佳片](https://www.bilibili.com/video/BV1zM411b7Nr/)，虽然但是，有些片热门到都上映好久了还没下映……收了 [火山挚恋 Fire of Love](https://movie.douban.com/subject/35694766/) 和 [椒麻堂会](https://movie.douban.com/subject/27305997/) 两部。
 
-- [看懂李安的辛辣和讽刺，才看懂了中国式家庭！《饮食男女》深度解读](https://www.bilibili.com/video/BV1mY411X72U/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，拉片，想再看一遍原片了。很多结构越想越有味道。余韵，或许就是李安电影的魅力吧。
+- [看懂李安的辛辣和讽刺，才看懂了中国式家庭！《饮食男女》深度解读](https://www.bilibili.com/video/BV1mY411X72U/)，拉片，想再看一遍原片了。很多结构越想越有味道。余韵，或许就是李安电影的魅力吧。
 
-- [【宝藏演员07】张颂文最好的，还不是演技](https://www.bilibili.com/video/BV1oR4y1q7P6/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)，看 [狂飙](https://movie.douban.com/subject/35465232/) 的时候顺带看的，最感人的是中间有一段，讲他经常在菜市场和小摊贩聊天，坐在他们的椅子上帮他们干活，在视频 4:32 处引了他的采访视频，他说「但是人的一生就是这样，摇摇晃晃地走到了一个位置，可能根本不是你想象中的那样。你想象他年轻在十八岁当兵的时候，可能也在跟别人畅想，将来我怎么样，将来我怎么样。他怎么知道他自己卖菜一卖就卖了二十年，对不对。卖了二十年。」唉。
+- [【宝藏演员07】张颂文最好的，还不是演技](https://www.bilibili.com/video/BV1oR4y1q7P6/)，看 [狂飙](https://movie.douban.com/subject/35465232/) 的时候顺带看的，最感人的是中间有一段，讲他经常在菜市场和小摊贩聊天，坐在他们的椅子上帮他们干活，在视频 4:32 处引了他的采访视频，他说「但是人的一生就是这样，摇摇晃晃地走到了一个位置，可能根本不是你想象中的那样。你想象他年轻在十八岁当兵的时候，可能也在跟别人畅想，将来我怎么样，将来我怎么样。他怎么知道他自己卖菜一卖就卖了二十年，对不对。卖了二十年。」唉。
 
-- [夏天就是要去电影节呀！！](https://www.bilibili.com/video/BV1KB4y1L7bE/?vd_source=cadebb52993d8ab2c0f257a19ba080e8)「当时看见大家一起仰头，在广场看着银幕的时候，你会觉得，就像人类第一次看到篝火一样，向着光亮，抬头齐聚在那里。」这样的氛围真好，说得我一不太看电影的人都有点想去电影节了。
+- [夏天就是要去电影节呀！！](https://www.bilibili.com/video/BV1KB4y1L7bE/)「当时看见大家一起仰头，在广场看着银幕的时候，你会觉得，就像人类第一次看到篝火一样，向着光亮，抬头齐聚在那里。」这样的氛围真好，说得我一不太看电影的人都有点想去电影节了。
 
   
 

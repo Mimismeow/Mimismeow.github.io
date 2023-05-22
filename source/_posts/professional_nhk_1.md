@@ -18,7 +18,7 @@ date: 2023-01-04
 
 <br/>
 
-[希望を灯す、魂の映画, アニメーション映画監督, 細田守](https://www.nhk.or.jp/professional/2015/0803/index.html)，汉化见 b 站上的[这集](https://www.bilibili.com/video/BV13Y411j7qN?p=6&vd_source=cadebb52993d8ab2c0f257a19ba080e8)。
+[希望を灯す、魂の映画, アニメーション映画監督, 細田守](https://www.nhk.or.jp/professional/2015/0803/index.html)，汉化见 b 站上的[这集](https://www.bilibili.com/video/BV13Y411j7qN/)。
 
 <br/>
 
@@ -55,7 +55,7 @@ date: 2023-01-04
 
 <br/>
 
-[答えを求めて、声を探す, 声優, 神谷浩史](https://www.nhk.or.jp/professional/2019/0107/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN?p=28&vd_source=cadebb52993d8ab2c0f257a19ba080e8)。
+[答えを求めて、声を探す, 声優, 神谷浩史](https://www.nhk.or.jp/professional/2019/0107/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN/)。
 
 <br/>
 
@@ -91,7 +91,7 @@ date: 2023-01-04
 
 <br/>
 
-[蛇行せよ、出し尽くせ, 菓子開発 / マーケター·小林正典](https://www.nhk.or.jp/professional/2015/0622/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN?p=21&vd_source=cadebb52993d8ab2c0f257a19ba080e8)。
+[蛇行せよ、出し尽くせ, 菓子開発 / マーケター·小林正典](https://www.nhk.or.jp/professional/2015/0622/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN/)。
 
 <br/>
 
@@ -133,7 +133,7 @@ date: 2023-01-04
 
 <br/>
 
-[漫画家 藤子・F・不二雄](https://www.nhk.or.jp/professional/2013/1021/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN/?spm_id_from=333.337.search-card.all.click&vd_source=cadebb52993d8ab2c0f257a19ba080e8)。
+[漫画家 藤子・F・不二雄](https://www.nhk.or.jp/professional/2013/1021/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN/)。
 
 <br/>
 
@@ -161,7 +161,7 @@ date: 2023-01-04
 
 #### 163 料理家 栗原晴美
 
-<br/>[料理の力を、信じている, 料理家·栗原はるみ](https://www.nhk.or.jp/professional/2011/1024/)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN?p=20&vd_source=cadebb52993d8ab2c0f257a19ba080e8)。
+<br/>[料理の力を、信じている, 料理家·栗原はるみ](https://www.nhk.or.jp/professional/2011/1024/)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN/)。
 
 <br/>
 
@@ -197,7 +197,7 @@ date: 2023-01-04
 
 <br/>
 
-[猫を知れば、世界が変わる, 動物写真家 岩合光昭](https://www.nhk.or.jp/professional/2017/0529/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN?p=7&vd_source=cadebb52993d8ab2c0f257a19ba080e8)。
+[猫を知れば、世界が変わる, 動物写真家 岩合光昭](https://www.nhk.or.jp/professional/2017/0529/index.html)，汉化见 b 站上[这集](https://www.bilibili.com/video/BV13Y411j7qN/)。
 
 <br/>
 
