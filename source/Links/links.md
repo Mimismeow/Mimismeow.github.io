@@ -24,7 +24,6 @@ title: 链接
 
 - [Motherfucking website](https://motherfuckingwebsite.com/)，暴躁老哥教你写博客。
 - [中文独立博客列表（网页版）](https://feeds.pub/cn-indie)，[中文独立博客列表（Github Pages）](https://github.com/timqian/chinese-independent-blogs)。
-- [Webring](https://webring.xxiivv.com/)
 
 <br/>
 
@@ -41,6 +40,8 @@ title: 链接
 - [Velas 电波站](https://www.velasx.com/)
 - [To the Lighthouse](https://owlswims.com/)
 - [Another Dayu](https://anotherdayu.com/)
+- [雪糕](https://lyc.sh/blog/)
+- [积薪](https://firewood.news/)
 
 <br/>
 
