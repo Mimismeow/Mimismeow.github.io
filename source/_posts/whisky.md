@@ -1,5 +1,5 @@
 ---
-title: 如果我们的语言是威士忌 | もし僕らのことばがウィスキーであったなら
+title: 如果我们的语言是威士忌
 tags: 会饮篇
 date: 2023-06-10
 ---
@@ -14,7 +14,7 @@ date: 2023-06-10
 
 <br/>
 
-- Berry's Glen spey 24yr $88
+**Berry's Glen spey 24yr $88**
 
 <br/>
 
@@ -26,7 +26,7 @@ date: 2023-06-10
 
 <br/>
 
-- Teeling small batch Whisky Irish Whiskey ($32):  
+**Teeling small batch Whisky Irish Whiskey ($32):**  
 
 <br/>
 
@@ -38,7 +38,7 @@ date: 2023-06-10
 
 <br/>
 
-- McFarlane's Reserve Select Cask Strength (Kentucky Straight Bourbon Whisky) ($39), 54.4%
+**McFarlane's Reserve Select Cask Strength (Kentucky Straight Bourbon Whisky) ($39), 54.4%**
 
 <br/>
 
@@ -54,7 +54,7 @@ date: 2023-06-10
 
 <br/>
 
-- Shieldaig, the Oloroso Cask Edition $47.6
+**Shieldaig, the Oloroso Cask Edition $47.6**
 
 <br/>
 
@@ -70,7 +70,7 @@ date: 2023-06-10
 
 <br/>
 
-- Glengoyne 12yr
+**Glengoyne 12yr**
 
 <br/>
 
@@ -82,7 +82,7 @@ date: 2023-06-10
 
 <br/>
 
-- Glenlivet 12yr
+**Glenlivet 12yr**
 
 
 <br/>
@@ -95,7 +95,7 @@ date: 2023-06-10
 
 <br/>
 
-- Vodka Elderflower & Pear Cocktail $3 ?
+**Vodka Elderflower & Pear Cocktail $3 ?**
 
 <br/>
 
@@ -107,7 +107,7 @@ date: 2023-06-10
 
 <br/>
 
-- Macallan 12 yr Sherry Oak Cask $80
+**Macallan 12 yr Sherry Oak Cask $80**
 
 
 <br/>
@@ -132,7 +132,7 @@ date: 2023-06-10
 
 <br/>
 
-- Michter Straight Rye $47
+**Michter Straight Rye $47**
 
 <br/>
 
