@@ -23,7 +23,7 @@ title: 链接
 <br/>
 
 - [Motherfucking website](https://motherfuckingwebsite.com/)，暴躁老哥教你写博客。
-- [中文独立博客列表（网页版）](https://feeds.pub/cn-indie)，[中文独立博客列表（Github Pages）](https://github.com/timqian/chinese-independent-blogs)。
+- [中文独立博客列表（网页版）](https://feeds.pub/cn-indie)，[中文独立博客列表（Github Pages）](https://github.com/timqian/chinese-independent-blogs)，[积薪](https://firewood.news/)。
 
 <br/>
 
@@ -41,7 +41,6 @@ title: 链接
 - [To the Lighthouse](https://owlswims.com/)
 - [Another Dayu](https://anotherdayu.com/)
 - [雪糕](https://lyc.sh/blog/)
-- [积薪](https://firewood.news/)
 
 <br/>
 
@@ -74,6 +73,7 @@ title: 链接
 - [Albus's Pensieve](https://pensieve.wangxindi.org/)
 - [椒盐豆豉](https://blog.douchi.space/)
 - [%&￥*^3%2$(I<%I](https://fukkix.blog/)
+- [秘密花园](http://www.yini.org/club/garden.html)（哇这个真得梦回小学……班得瑞的曲子是真得往 DNA 里刻了）
 
 
 

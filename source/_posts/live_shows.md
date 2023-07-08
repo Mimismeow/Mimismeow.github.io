@@ -39,3 +39,25 @@ date: 2022-12-10
 **The Seatbelts** 乐队的「星际牛仔」的现场 [The Seatbelts [Live Concert]](https://www.youtube.com/watch?v=mKVH1EA-qWM&list=PL844D00095BB4D3FC)，超帅啊，感觉很多都比动画原声要带感。
 
 <br/>
+
+**坂本龙一**老师 2020 年的一场音乐会 [Ryuichi Sakamoto: Playing the Piano for the Isolated](https://www.youtube.com/watch?v=X6td9KUZMfw)，Hidejiro Honjoh 弹的三味线又像琴又像筝，其间两人完成了一段很像声乐实验的演奏，非常……非常神奇，有点像噪音，但是蛮好听的，我也不懂（脑子空空）。
+
+<br/>
+
+
+
+---
+
+<br/>
+
+好吧也不定期更新一些专辑：
+
+<br/>
+
+**山崎ハコ**的[「綱渡り」 (1976)](https://www.youtube.com/watch?v=IRzhPeT2Csc)，第一次听这位创作者的曲子，好震撼，悲绝的声音，肃杀秋日的阳光。震撼我一整年。再听几遍。找到一篇介绍山崎叶子的文章「[出塵脫俗的隱世歌姬 - 山崎葉子](http://timeischanging2013.blogspot.com/2020/03/HakoYamasaki.html)」。
+
+<br/>
+
+[**Osi And The Jupiter**— Nordlige Rúnaskog](https://www.youtube.com/watch?v=VTVIan3gtYA)，中间有段鼓声像是命运的脉搏，很震撼。这个乐队风格听起来像是北欧的，但查了一下发现是美国乐队，Ohio 的。评论家的评价是「Paganistic folk with flourishes of orchestral splendour," "authentic, beautiful recordings that pay homage to traditional mysticism."」
+
+<br/>
