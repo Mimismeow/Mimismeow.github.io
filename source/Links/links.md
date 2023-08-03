@@ -41,6 +41,7 @@ title: 链接
 - [To the Lighthouse](https://owlswims.com/)
 - [Another Dayu](https://anotherdayu.com/)
 - [雪糕](https://lyc.sh/blog/)
+- [白洛嘉](https://phenol-phthalein.info/)
 
 <br/>
 
