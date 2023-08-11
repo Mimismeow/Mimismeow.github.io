@@ -175,3 +175,13 @@ date: 2023-06-10
 ---
 
 <br/>
+
+**Michter's US1 Whiskeys Sour Mash, $42**
+
+<br/>
+
+这个好欸。Sour Mash，估计是因为没有达到 51% 的玉米或者黑麦，所以不算波本威士忌也不算黑麦威士忌，不过一喝就知道是美国风味。它的做法，根据官方的说法：*Sour Mash Whiskey’s label refers to the process in which some of the fermented mash is held over from one batch of whiskey to start the fermentation on the next batch* 所以是斐波那契发酵法（不是
+
+入口的时候没有想象中的美国威士忌特有的甜，反而是非常厚的麦香，以及一点太妃糖、巧克力蛋糕、以及固有的香草和焦糖调。但最突出的还是麦香，在其它款的威士忌中都没有喝到过。估计也加了不少黑麦，后调还是有不少黑麦的那种辣味。但是很特别的是，从入口到最后都萦绕着一丝很自然的甘甜。这股甜味让各种复杂的味道调和起来，喝起来很舒服。另外酒体非常柔顺，包裹住舌头，没有刺激感，但又很香。总之非常适合日常饮用。
+
+<br/>

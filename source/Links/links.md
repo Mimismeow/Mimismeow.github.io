@@ -173,6 +173,8 @@ title: 链接
 
 #### 特别篇：京都动画
 
+『[響け！ユーフォニアム | 吹响吧，上低音号](https://bangumi.tv/subject/115908)』是我的本命番。梦想是和[黄前久美子](https://bangumi.tv/character/29282)一样性格的人交朋友，或者自己成为这样性格的人。
+
 <br/>
 
 - [Kyoto Animation](https://www.kyotoanimation.co.jp/en/)，京阿尼总站。
@@ -192,6 +194,10 @@ title: 链接
 - [轻音少女志](https://space.bilibili.com/172085/channel/collectiondetail?sid=333138)，关于轻音的细节考据。
 
 - [京吹群象志](https://space.bilibili.com/37460327/article)，京吹主配角群像介绍。
+
+- [《吹响吧！上低音号》系列谈 黄前久美子](https://www.bilibili.com/read/cv6956154/)，这个系列谈里有不少很细致的文章！
+
+- [吹响吧！上低音号~合奏比赛篇~主题曲「合奏」](https://www.bilibili.com/video/BV1iP41167jJ/)，这个剪得真得好看。而且这首主题曲也特别好听，最近一直在循环，温暖又有力量。
 
 
 
