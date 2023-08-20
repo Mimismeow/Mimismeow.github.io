@@ -1,5 +1,5 @@
 ---
-title: Where I'm calling from: new and selected stories
+title: Where I'm calling from
 tags: 竹里馆
 date: 2023-08-19
 ---
