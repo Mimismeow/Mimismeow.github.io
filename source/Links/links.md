@@ -75,6 +75,7 @@ title: 链接
 - [椒盐豆豉](https://blog.douchi.space/)
 - [%&￥*^3%2$(I<%I](https://fukkix.blog/)
 - [秘密花园](http://www.yini.org/club/garden.html)（哇这个真得梦回小学……班得瑞的曲子是真得往 DNA 里刻了）
+- [咸鱼之篮](https://wraith615.noto.so/)
 
 
 
