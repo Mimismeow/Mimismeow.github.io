@@ -8,7 +8,15 @@ date: 2022-12-10
 
 <br/>
 
-**椎名林檎**的 [百鬼夜行2015](https://www.bilibili.com/video/BV1k4411i7rP/)，超帅。她还有东京事变时期的曲子我以及翻来覆去听了一年了。现在听歌都爵里爵气的。
+**椎名林檎**的 [百鬼夜行2015](https://www.bilibili.com/video/BV1k4411i7rP/)，超帅（听了好多遍了）。开头的曲子真得很刺痛。这一版的
+
+<br/>
+
+**椎名林檎**的 [东京事变 Discovery 2011](https://www.bilibili.com/video/BV1DV4y1d7bX/)，听！
+
+<br/>
+
+**椎名林檎**的 [(生)林檎博'08 〜10周年记念祭〜 EXPO 08](https://www.bilibili.com/video/BV1Kz4y1Y7kF/)，听！
 
 <br/>
 
