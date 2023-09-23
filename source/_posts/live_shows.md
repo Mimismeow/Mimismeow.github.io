@@ -8,23 +8,15 @@ date: 2022-12-10
 
 <br/>
 
-**椎名林檎**的 [百鬼夜行2015](https://www.bilibili.com/video/BV1k4411i7rP/)，超帅（听了好多遍了）。开头的曲子真得很刺痛。这一版的
+**椎名林檎**的 [百鬼夜行2015](https://www.bilibili.com/video/BV1k4411i7rP/)， [东京事变 Discovery 2011](https://www.bilibili.com/video/BV1DV4y1d7bX/)， [(生)林檎博'08 〜10周年记念祭〜 EXPO 08](https://www.bilibili.com/video/BV1Kz4y1Y7kF/)
 
 <br/>
 
-**椎名林檎**的 [东京事变 Discovery 2011](https://www.bilibili.com/video/BV1DV4y1d7bX/)，听！
+**宇多田光**的 [WILD LIFE 2010](https://www.bilibili.com/video/BV1NE411M7Dm/)，[Laughter in the Dark Tour 2018](https://www.bilibili.com/video/BV1jd4y1j7qh/)，[Live Sessions from Air Studios](https://www.bilibili.com/video/BV1r24y1H7cY/)
 
 <br/>
 
-**椎名林檎**的 [(生)林檎博'08 〜10周年记念祭〜 EXPO 08](https://www.bilibili.com/video/BV1Kz4y1Y7kF/)，听！
-
-<br/>
-
-**中岛美雪**的 [歌旅2007](https://www.bilibili.com/video/BV1uK411P7JE/)，阿姨真得是太有气质了，写词写曲以及演唱都举重若轻，活泼、可爱、又十分坚定，堪称战斗型歌姬。每次难过的时候、迷茫的时候，听阿姨唱歌就会慢慢恢复勇气。真得有人能这么耀眼啊，看着她我就觉得这是自己一辈子都无法达到的高度。她的才华和气质彻底征服了我，她的歌声指引着我前路的方向。总结陈词：我愿意做阿姨的狗.jpg
-
-<br/>
-
-**中岛美雪**的 [夜会1990](https://www.bilibili.com/video/BV1Z7411x7Z1/)，年轻时的美雪，唉，真得好美啊，而且也有些忧郁。嫉妒。一个人怎么能和她的歌如此契合呢。这是多么完美的艺术。唉。
+**中岛美雪**的 [歌旅2007](https://www.bilibili.com/video/BV1uK411P7JE/)，阿姨真得是太有气质了，写词写曲以及演唱都举重若轻，活泼、可爱、又十分坚定，堪称战斗型歌姬。每次难过的时候、迷茫的时候，听阿姨唱歌就会慢慢恢复勇气。真得有人能这么耀眼啊，看着她我就觉得这是自己一辈子都无法达到的高度。她的才华和气质彻底征服了我，她的歌声指引着我前路的方向。总结陈词：我愿意做阿姨的狗.jpg。还有[夜会1990](https://www.bilibili.com/video/BV1Z7411x7Z1/)，年轻时的美雪，唉，真得好美啊，而且也有些忧郁。嫉妒。一个人怎么能和她的歌如此契合呢。这是多么完美的艺术。唉。
 
 <br/>
 
