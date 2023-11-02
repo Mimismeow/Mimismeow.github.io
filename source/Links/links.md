@@ -40,6 +40,8 @@ title: 链接
 - [Another Dayu](https://anotherdayu.com/)
 - [雪糕](https://lyc.sh/blog/)
 - [白洛嘉](https://phenol-phthalein.info/)
+- [椒盐豆豉](https://blog.douchi.space/)
+- [Moon in Nowhere](https://innowhere.icu/)
 
 <br/>
 
@@ -70,10 +72,12 @@ title: 链接
 - [大Joy在侃村](https://giantjoy.net/)
 - [99 problems](https://jarrywangcn.github.io/)
 - [Albus's Pensieve](https://pensieve.wangxindi.org/)
-- [椒盐豆豉](https://blog.douchi.space/)
 - [%&￥*^3%2$(I<%I](https://fukkix.blog/)
-- [秘密花园](http://www.yini.org/club/garden.html)（哇这个真得梦回小学……班得瑞的曲子是真得往 DNA 里刻了）
 - [咸鱼之篮](https://wraith615.noto.so/)
+- [小球飞鱼](https://mantyke.icu/)
+- [无竹斋](https://bamboobone9.com/)
+- [K Store](https://kiwylai.github.io/)
+- [热港 | Vesuvius Harbor](https://heartoftheearth.dk/zh-cn)
 
 
 
@@ -222,3 +226,4 @@ title: 链接
 - [《占星术杀人魔法》地图](https://www.google.com/maps/d/u/0/viewer?ie=UTF8&amp%3Bmoduleurl=http%3A%2F%2Fmaps.google.com%2Fhelp%2Fmaps%2Fholidays%2Fmapplet.html&amp%3Bmapclient=google&hl=en&msa=0&ll=35.16659899999999%2C134.81666600000003&spn=13.966848%2C14.963379&z=8&mid=1_KmvuBmRCmj2O1c1CvqyJmeGL00)，读岛田庄司的这部作品时找到的。不禁感慨网上真得什么都有人做啊。
 - [榛子陪你：Zoom云自习室](https://trello.com/b/iHuViFwq/%E6%A6%9B%E5%AD%90%E9%99%AA%E4%BD%A0%EF%BC%9Azoom%E4%BA%91%E8%87%AA%E4%B9%A0%E5%AE%A4study-with-me-on-zoom)，在疫情期间居家办公时尝试过，有人监督工作效率确实会提高！
 - [LKs 收集的神奇网站](https://lkssite.vip/)
+- [秘密花园](http://www.yini.org/club/garden.html)（哇这个真得梦回小学……班得瑞的曲子是真得往 DNA 里刻了）
