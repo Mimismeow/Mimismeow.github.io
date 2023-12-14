@@ -16,7 +16,7 @@ date: 2023-12-13
 
 [夜行船 ( - 2022.02)](https://tianxianzi.me/2023/12/13/floating_life_1/)
 
-[夜行船 (2022.03 - 2022.07)]((https://tianxianzi.me/2023/12/13/floating_life_2/))
+[夜行船 (2022.03 - 2022.07)](https://tianxianzi.me/2023/12/13/floating_life_2/)
 
 ---
 

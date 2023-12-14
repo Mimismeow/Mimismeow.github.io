@@ -16,7 +16,7 @@ date: 2023-12-13
 
 [如梦令 ( - 2022.05)](https://tianxianzi.me/2023/12/13/emotion_1/)
 
-[如梦令 (2022.06 - 2023.03)]((https://tianxianzi.me/2023/12/13/emotion_2/))
+[如梦令 (2022.06 - 2023.03)](https://tianxianzi.me/2023/12/13/emotion_2/)
 
 ---
 
