@@ -1,7 +1,7 @@
 ---
 title: 水龙吟 (2023.10 - 2023.11)
 tags: 人间世
-date: 2023-12-13
+date: 2023-12-12
 ---
 
 
@@ -14,15 +14,15 @@ date: 2023-12-13
 
 </br>
 
-[水龙吟 ( - 2022.01)](https://tianxianzi.me/2023/12/13/ego_1/)
+[水龙吟 ( - 2022.01)](https://tianxianzi.me/2023/12/12/ego_1/)
 
-[水龙吟 (2022.02 - 2022.07)](https://tianxianzi.me/2023/12/13/ego_2/)
+[水龙吟 (2022.02 - 2022.07)](https://tianxianzi.me/2023/12/12/ego_2/)
 
-[水龙吟 (2022.08 - 2023.01)](https://tianxianzi.me/2023/12/13/ego_3/)
+[水龙吟 (2022.08 - 2023.01)](https://tianxianzi.me/2023/12/12/ego_3/)
 
-[水龙吟 (2023.02 - 2023.08)](https://tianxianzi.me/2023/12/13/ego_4/)
+[水龙吟 (2023.02 - 2023.08)](https://tianxianzi.me/2023/12/12/ego_4/)
 
-[水龙吟 (2023.09)](https://tianxianzi.me/2023/12/13/ego_5/)
+[水龙吟 (2023.09)](https://tianxianzi.me/2023/12/12/ego_5/)
 
 ---
 

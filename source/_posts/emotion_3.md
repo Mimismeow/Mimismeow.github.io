@@ -1,7 +1,7 @@
 ---
 title: 如梦令 (2023.04 - 2023.11)
 tags: 人间世
-date: 2023-12-13
+date: 2023-12-14
 ---
 
 
@@ -14,9 +14,9 @@ date: 2023-12-13
 
 </br>
 
-[如梦令 ( - 2022.05)](https://tianxianzi.me/2023/12/13/emotion_1/)
+[如梦令 ( - 2022.05)](https://tianxianzi.me/2023/12/14/emotion_1/)
 
-[如梦令 (2022.06 - 2023.03)](https://tianxianzi.me/2023/12/13/emotion_2/)
+[如梦令 (2022.06 - 2023.03)](https://tianxianzi.me/2023/12/14/emotion_2/)
 
 ---
 
