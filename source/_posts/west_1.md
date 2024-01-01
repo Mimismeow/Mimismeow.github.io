@@ -84,7 +84,7 @@ date: 2023-12-31
 
 <br/>
 
-![](IMG_6880.jpg)
+![](\source\_posts\west_1\IMG_6880.jpg)
 
 <br/>
 
