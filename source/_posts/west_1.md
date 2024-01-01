@@ -84,7 +84,7 @@ date: 2023-12-31
 
 <br/>
 
-![](IMG_6880.jpg "Main strip 中的某条街")
+![](IMG_6880.jpg)
 
 <br/>
 
