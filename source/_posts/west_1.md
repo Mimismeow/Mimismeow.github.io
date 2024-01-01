@@ -84,7 +84,7 @@ date: 2023-12-31
 
 <br/>
 
-![](\source\_posts\west_1\IMG_6880.jpg)
+![](https://tianxianzi.me/2023/12/31/west_1/IMG_6880.jpg "Main Strip 中的某条街，水$5一瓶")
 
 <br/>
 
