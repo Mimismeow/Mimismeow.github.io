@@ -203,7 +203,7 @@ title: 链接
 
 - [吹响吧！上低音号~合奏比赛篇~主题曲「合奏」](https://www.bilibili.com/video/BV1iP41167jJ/)，这个剪得真得好看。而且这首主题曲也特别好听，最近一直在循环，温暖又有力量。
 
-- [Kumiko as a server](https://tvt.moe/)，何ですか？これ。
+- [Kumiko as a Service](https://tvt.moe/)，何ですか？これ。
 
 
 
