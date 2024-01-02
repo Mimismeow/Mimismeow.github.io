@@ -85,9 +85,7 @@ Bryce Point 的全貌：
 
 Zion 的秀丽：
 
-![](IMG_7292.jpg "Zion 的秀丽")
-
-![](IMG_7296.jpg "")
+![](IMG_7296.jpg "Zion 的秀丽")
 
 ![](IMG_7315.jpg "")
 
@@ -269,7 +267,7 @@ Artist Palette 天子非常赐颜色：
 
 黄金谷：
 
-![](IMG_7459.jpg "黄金谷")
+![](IMG_7452.jpg "黄金谷")
 
 红衣主教：
 
