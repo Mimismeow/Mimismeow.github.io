@@ -80,6 +80,6 @@ Woman with a Parasol - Madame Monet and Her Son：
 
 结实的紫水晶：
 
-![](IMG_6163.jpg "结实的紫水晶")
+![](IMG_6136.jpg "结实的紫水晶")
 
 <br/>
