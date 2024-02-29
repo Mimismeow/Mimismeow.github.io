@@ -43,6 +43,10 @@ title: 链接
 - [椒盐豆豉](https://blog.douchi.space/)
 - [Moon in Nowhere](https://innowhere.icu/)
 - [Sleepingcat](https://sleepingcat.me/ )
+- [Dasein](https://professorx8.github.io/)
+- [Airing 的小屋](https://blog.ursb.me/)
+- [月夜Moonlight](https://ellelang.github.io/moonlight/)
+- [千里之豪]([https://blog.gadore.top](https://blog.gadore.top/))
 
 <br/>
 
