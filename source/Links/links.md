@@ -46,7 +46,7 @@ title: 链接
 - [Dasein](https://professorx8.github.io/)
 - [Airing 的小屋](https://blog.ursb.me/)
 - [月夜Moonlight](https://ellelang.github.io/moonlight/)
-- [千里之豪]([https://blog.gadore.top](https://blog.gadore.top/))
+- [千里之豪](https://blog.gadore.top/)
 
 <br/>
 
