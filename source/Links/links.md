@@ -47,6 +47,7 @@ title: 链接
 - [Airing 的小屋](https://blog.ursb.me/)
 - [月夜Moonlight](https://ellelang.github.io/moonlight/)
 - [千里之豪](https://blog.gadore.top/)
+- [山月](http://sanguok.com/)
 
 <br/>
 
